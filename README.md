@@ -1,117 +1,84 @@
-⚡ ROBIUL
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:2563eb&height=220&section=header&text=ROBIUL&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:2563eb&height=230&section=header&text=ROBIUL&fontSize=76&fontColor=ffffff&fontAlignY=36&desc=BUILDING%20THE%20FUTURE%20ONE%20PROJECT%20AT%20A%20TIME&descAlignY=58&descSize=15" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Creative+Builder;Cybersecurity+%26+OSINT+Enthusiast;UI%2FUX+Explorer;Gaming+%26+Technology+Enthusiast;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
 </p>
 <p align="center">
   <a href="https://github.com/HACKERBOYDEVILYT">
-    <img src="https://img.shields.io/badge/GitHub-HACKERBOYDEVILYT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-HACKERBOYDEVILYT-020617?style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Building-Real%20Projects-7c3aed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Every%20Day-059669?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Web+%26+App+Builder;Cybersecurity+Enthusiast;UI%2FUX+Explorer;Gaming+%26+Technology+Enthusiast;Always+Building+Something+New+%F0%9F%9A%80" />
+  <img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-2563eb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LEARNING-EVERY%20DAY-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MINDSET-KEEP%20BUILDING-059669?style=flat-square"/>
 </p>
 
 ⸻
 
-🧬 whoami
+👋 Hey, I’m Robiul
 
-┌──────────────────────────────────────────────────────────────┐
-│                         ROBIUL                               │
-├──────────────────────────────────────────────────────────────┤
-│ Role        : Developer / Builder                           │
-│ Focus       : Full-Stack Web Applications                   │
-│ Interests   : Cybersecurity • OSINT • Gaming • AI           │
-│ UI Style    : Modern • Dark • Technical • Responsive        │
-│ Mindset     : Build → Break → Learn → Improve               │
-│ Mission     : Turn ideas into real products                 │
-└──────────────────────────────────────────────────────────────┘
+Developer • Builder • Technology Enthusiast • Gamer • Creative Explorer
 
-I’m Robiul, a technology enthusiast and developer who enjoys turning ideas into real digital products.
+I’m Robiul, a technology-focused creator who enjoys turning ideas into real applications.
 
-I don’t like stopping at a basic prototype.
+My interests cover:
 
-I enjoy taking an idea from:
+Web Development · Full-Stack Systems · UI/UX · Cybersecurity · OSINT · AI · Gaming · Mobile Technology · Cloud · Creative Design
 
-Concept → Architecture → UI → Code → Backend → Database → Deployment → Product
+I like taking an idea beyond a simple prototype and exploring the complete journey:
 
-⸻
-
-🚀 CURRENTLY_BUILDING
-
-<table>
-<tr>
-<td width="50%">
-
-🌐 Full-Stack Applications
-
-Building modern applications with:
-
-* React
-* Vite
-* JavaScript
-* APIs
-* Authentication
-* State management
-* Databases
-* Responsive UI
-
-</td>
-<td width="50%">
-
-🛡️ Security & OSINT
-
-Exploring:
-
-* OSINT platforms
-* Security dashboards
-* DNS intelligence
-* Network concepts
-* Data visualization
-* Scan systems
-* Real-time events
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-🎬 Streaming Platforms
-
-Working with:
-
-* Media interfaces
-* Video players
-* Metadata
-* Search
-* Watch history
-* Continue watching
-* API-driven content
-
-</td>
-<td width="50%">
-
-🎮 Gaming
-
-Interested in:
-
-* Arcade games
-* Fighting games
-* Game UI
-* Ludo
-* Interactive experiences
-* Mobile gaming
-
-</td>
-</tr>
-</table>
+💡 IDEA
+   ↓
+🧠 ARCHITECTURE
+   ↓
+🎨 DESIGN
+   ↓
+💻 DEVELOPMENT
+   ↓
+🔌 API / BACKEND
+   ↓
+🗄️ DATABASE
+   ↓
+🧪 TESTING
+   ↓
+☁️ DEPLOYMENT
+   ↓
+🚀 PRODUCT
 
 ⸻
 
-⚡ TECH STACK
+🧑‍💻 About Me
+
+name: Robiul
+role: Developer & Builder
+focus:
+  - Full-Stack Development
+  - Modern Web Applications
+  - UI/UX Design
+  - Cybersecurity Concepts
+  - OSINT Platforms
+  - Mobile Technology
+  - AI Applications
+interests:
+  - Gaming
+  - Retro Arcade Games
+  - Digital Design
+  - Technology
+  - Cloud Systems
+mindset:
+  - Curious
+  - Experimental
+  - Project Driven
+  - Always Learning
+philosophy:
+  "Build it. Break it. Understand it. Improve it."
+
+⸻
+
+⚡ Tech Arsenal
 
 Frontend
 
@@ -119,444 +86,465 @@ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 
-Backend & APIs
+Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
-Database
+Database & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker" />
 </p>
 
-Tools & Infrastructure
+Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,replit,cloudflare,netlify,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,replit,cloudflare,netlify,vscode" />
 </p>
 
 ⸻
 
-🧠 ENGINEERING_MINDSET
+🚀 Featured Projects
 
-             ┌──────────────────────┐
-             │        IDEA          │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │      PLANNING        │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │        UI/UX         │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │       FRONTEND       │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │       BACKEND        │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │       DATABASE       │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │        TEST          │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │       DEPLOY         │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │       IMPROVE        │
-             └──────────┬───────────┘
-                        │
-                        └──────────────→ 🚀
+<table>
+<tr>
+<td width="50%" valign="top">
 
-⸻
+🎬 Anime Platform
 
-🔥 FEATURED_PROJECTS
+A modern anime streaming-style application focused on an immersive media experience.
 
-🎬 Anime Streaming Platform
+Features
 
-A modern anime streaming-style web application focused on responsive UI, real API integration, media browsing, and personalized viewing features.
-
-Highlights
-
-* 🔎 Advanced search
-* 📺 Anime details
-* ▶️ Video player
+* 🔎 Search
 * 🔥 Trending
 * ⭐ Popular
 * 📅 Seasonal
 * 🏷️ Genres
+* 📺 Anime Details
+* ▶️ Video Player
 * ❤️ Watchlist
-* 🕘 Watch history
-* ▶️ Continue Watching
-* ⚡ API caching
-* 📄 Pagination
-* 📱 Responsive design
+* 🕘 Watch History
+* ⏯️ Continue Watching
+* ⚡ API Integration
+* 📱 Responsive UI
 
-⸻
+</td>
+<td width="50%" valign="top">
 
 🛡️ VPN Platform
 
-A professional VPN application concept covering frontend, backend, networking, authentication, server regions, DNS, sessions, and administration.
+A professional VPN application concept covering the complete application ecosystem.
 
-Architecture Areas
+Architecture
 
-Frontend
-   │
-   ├── Dashboard
-   ├── Server Selection
-   ├── Account
-   └── Connection UI
-          │
-          ▼
-       Backend API
-          │
-    ┌─────┼─────┐
-    ↓     ↓     ↓
- Auth   Sessions  DNS
-    │
-    ▼
- Database
-    │
-    ▼
-VPN Infrastructure
+* 🔐 Authentication
+* 👤 Accounts
+* 🌍 Server Regions
+* 📡 Sessions
+* 🌐 DNS
+* 📊 Telemetry
+* 🗄️ Database
+* 🛠️ Admin Panel
+* 📱 Mobile Client
+* ☁️ Infrastructure
 
-⸻
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 🕵️ OSINT Platform
 
-A cybersecurity-inspired intelligence dashboard focused on organizing authorized passive information into a professional interface.
+A security-oriented intelligence dashboard inspired by modern investigation tooling.
 
 Concepts
 
-* 🔍 Passive collection
-* 🌐 Domain intelligence
-* 🛰️ DNS information
-* 🖥️ IP information
-* 🕸️ Relationship graphs
-* 📊 Scan dashboards
-* 📜 Scan history
-* ⚡ WebSocket events
-* 🔐 Authentication
-* 👥 RBAC
-* 🔑 API-key management
-* 📄 Report generation
+* 🔍 Passive Intelligence
+* 🌐 Domain Data
+* 🛰️ DNS
+* 🖥️ IP Information
+* 🕸️ Graph Data
+* 📊 Scan Dashboard
+* 📜 Scan History
+* ⚡ Real-Time Events
+* 🔐 RBAC
+* 📄 Reports
 
-⸻
+</td>
+<td width="50%" valign="top">
 
-🎲 Ludo Game
+🎮 Ludo Game
 
-A professional Ludo application concept focused on game state, responsive UI, player management, animations, and interactive gameplay.
+A professional interactive game concept focused on gameplay logic and modern UI.
 
-Core Systems
+Systems
 
-* 🎲 Dice engine
-* 👥 Player state
-* 🔄 Turn system
-* 🧩 Game logic
-* 🏆 Winning conditions
+* 🎲 Dice Logic
+* 👥 Player State
+* 🔄 Turn Management
+* 🧩 Game State
+* 🏆 Winning Logic
 * 🎨 Animations
 * 📱 Mobile UI
 * 🖥️ Desktop UI
 
-⸻
-
-👤 Personal Portfolio
-
-A professional portfolio built around the identity of Robiul.
-
-Sections
-
-Home
-About
-Skills
-Projects
-Experience
-GitHub
-Blog
-Contact
-Resume
-Admin Panel
-
-⸻
-
-🧩 WHAT_I_LIKE_TO_BUILD
-
-<table>
-<tr>
-<td align="center">🌐<br><b>Web Apps</b></td>
-<td align="center">📱<br><b>Mobile Apps</b></td>
-<td align="center">🛡️<br><b>Security Tools</b></td>
-<td align="center">🎮<br><b>Games</b></td>
-</tr>
-<tr>
-<td align="center">🎬<br><b>Streaming</b></td>
-<td align="center">🤖<br><b>AI Apps</b></td>
-<td align="center">📊<br><b>Dashboards</b></td>
-<td align="center">☁️<br><b>Cloud Systems</b></td>
+</td>
 </tr>
 </table>
 
 ⸻
 
-🎨 DESIGN_LANGUAGE
+🎨 UI / UX DNA
 
-I enjoy interfaces that feel:
+I enjoy interfaces that feel technical, modern, immersive, and polished.
 
-┌──────────────────────────────────────────┐
-│  DARK                                     │
-│  MODERN                                   │
-│  CLEAN                                    │
-│  TECHNICAL                                │
-│  RESPONSIVE                               │
-│  INTERACTIVE                              │
-│  IMMERSIVE                                │
-└──────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│       DARK       MODERN       CLEAN                │
+│                                                    │
+│       TECHNICAL  RESPONSIVE   INTERACTIVE          │
+│                                                    │
+│       IMMERSIVE  MINIMAL      PROFESSIONAL         │
+│                                                    │
+└────────────────────────────────────────────────────┘
 
-Favorite UI Directions
+Visual styles I enjoy
 
-* 🌑 Dark mode
-* 💻 Hacker-inspired dashboards
-* 🧊 Glassmorphism
-* ✨ Micro-interactions
-* 📊 Data visualization
-* 🛰️ Technical interfaces
-* 🎮 Gaming-inspired layouts
-* 🎬 Streaming interfaces
+🌑 Dark Mode
+💻 Hacker-inspired interfaces
+🧊 Glassmorphism
+✨ Micro-interactions
+📊 Data dashboards
+🎮 Gaming interfaces
+🎬 Streaming interfaces
+🛰️ Technical visualization
 
 ⸻
 
-🧪 HOW_I_LEARN
+🧠 How I Learn
 
-I learn primarily through building real projects.
+I prefer learning by building.
+
+                 ┌───────────────┐
+                 │      IDEA     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BUILD     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BREAK     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │  INVESTIGATE  │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   UNDERSTAND  │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     FIX       │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    IMPROVE    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │      SHIP     │
+                 └───────┬───────┘
+                         │
+                         └──────→ 🚀
+
+Every error is data. Every project is experience.
+
+⸻
+
+🔐 Security & OSINT
+
+I’m interested in understanding how modern applications and information systems work from a security perspective.
+
+Areas of interest
+
+Web Security
+     │
+     ├── Authentication
+     ├── Authorization
+     ├── API Security
+     ├── Session Management
+     └── Secure Architecture
+OSINT
+     │
+     ├── Domain Intelligence
+     ├── DNS
+     ├── IP Data
+     ├── Metadata
+     ├── Relationships
+     └── Visualization
+
+My focus is on authorized, defensive, educational, and legitimate security research.
+
+⸻
+
+🎮 Gaming Mode
+
+Classic arcade games are one of my favorite areas of gaming.
+
+❤️ Favorites
+
+🥊 The King of Fighters
+🔫 Metal Slug
+⚔️ Samurai Shodown
+👊 Street Fighter
+🥋 Fatal Fury
+🕹️ Classic Arcade Games
+
+I also enjoy thinking about how gaming experiences can be translated into modern interfaces and applications.
+
+⸻
+
+📱 Mobile & iOS
+
+I’m interested in the iPhone ecosystem and mobile application experiences.
+
+Exploring
+
+* 📱 iOS applications
+* 🎮 Mobile gaming
+* 🛍️ App Store ecosystem
+* 🎨 Mobile UI
+* 🧹 Storage management
+* 🛡️ Privacy
+* 🌐 DNS
+* 🚫 Ad & tracker blocking
+* 📲 Responsive design
+
+⸻
+
+☁️ Deployment
+
+One of my interests is taking projects from local development to actual production.
+
+Workflow
+
+LOCAL DEVELOPMENT
+        ↓
+      GIT
+        ↓
+     GITHUB
+        ↓
+   BUILD / TEST
+        ↓
+     DEPLOY
+        ↓
+   PRODUCTION
+        ↓
+   MONITOR / FIX
+        ↓
+      UPDATE
+
+Platforms I’ve explored
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,replit,cloudflare,netlify" />
+</p>
+
+⸻
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" height="180"/>
+</p>
+
+⸻
+
+🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&theme=tokyonight&hide_border=true&border_radius=16" width="75%"/>
+</p>
+
+⸻
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+</p>
+
+⸻
+
+🗺️ Developer Roadmap
+
+🟢 Current
+
+React
+JavaScript
+Vite
+API Integration
+UI/UX
+GitHub
+Deployment
+
+🟡 Exploring
+
+Node.js
+Backend Architecture
+PostgreSQL
+Redis
+WebSockets
+Docker
+Authentication
+Cloud Infrastructure
+
+🔵 Future
+
+Advanced System Design
+Scalable Architecture
+Advanced Security
+AI Applications
+Mobile Development
+Production Infrastructure
+
+⸻
+
+🎯 2026 Mission
+
+┌─────────────────────────────────────────────┐
+│              ROBIUL // 2026                │
+├─────────────────────────────────────────────┤
+│                                             │
+│  ✓ Build real applications                  │
+│  ✓ Improve full-stack development           │
+│  ✓ Learn stronger backend architecture      │
+│  ✓ Improve database skills                  │
+│  ✓ Explore cybersecurity                   │
+│  ✓ Build professional UI systems            │
+│  ✓ Deploy more production projects          │
+│  ✓ Improve English communication             │
+│  ✓ Build larger projects                    │
+│  ✓ Keep experimenting                       │
+│                                             │
+└─────────────────────────────────────────────┘
+
+⸻
+
+💡 Development Philosophy
+
+Don’t just use technology. Understand it.
+
+QUESTION
+   ↓
+EXPERIMENT
+   ↓
+FAILURE
+   ↓
+DEBUG
+   ↓
+UNDERSTANDING
+   ↓
+IMPROVEMENT
+   ↓
+MASTERY
+
+I believe the best way to understand technology is to build something real.
+
+⸻
+
+🌐 Beyond Code
+
+Technology is only one part of what I enjoy.
+
+I’m also interested in:
+
+🎮 Gaming
+🎨 Digital Art & Photo Editing
+📱 Mobile Technology
+🎬 Media Platforms
+🌍 Language Learning
+🤖 Artificial Intelligence
+💡 New Technology
+🧩 Creative Experiments
+
+⸻
+
+📈 Long-Term Vision
+
+My long-term goal is to become capable of taking an idea from zero → production.
 
           💡 IDEA
              │
              ▼
-          🔨 BUILD
+       🧠 ARCHITECTURE
              │
              ▼
-          💥 BREAK
+          🎨 UI/UX
              │
              ▼
-        🔍 INVESTIGATE
+         💻 CODE
+             │
+       ┌─────┴─────┐
+       ▼           ▼
+   FRONTEND     BACKEND
+       │           │
+       └─────┬─────┘
+             ▼
+         🗄️ DATABASE
              │
              ▼
-         🧠 UNDERSTAND
+         🔐 SECURITY
              │
              ▼
-          🛠️ FIX
+           🧪 TEST
              │
              ▼
-         ⚡ IMPROVE
+          ☁️ DEPLOY
              │
              ▼
-          🚀 SHIP
+          📈 SCALE
              │
-             └──────────────► NEXT PROJECT
-
-Every bug is a lesson. Every project is experience.
-
-⸻
-
-📊 GITHUB_ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
-</p>
+             ▼
+            🚀
 
 ⸻
 
-🐍 CONTRIBUTION_GRAPH
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-⸻
-
-📚 LEARNING_ROADMAP
-
-01 — Frontend
-
-React
-   ↓
-Advanced JavaScript
-   ↓
-State Management
-   ↓
-Performance
-   ↓
-Advanced UI/UX
-
-02 — Backend
-
-Node.js
-   ↓
-REST APIs
-   ↓
-Authentication
-   ↓
-Databases
-   ↓
-Real-Time Systems
-
-03 — Infrastructure
-
-Git
-   ↓
-Docker
-   ↓
-Cloud
-   ↓
-CI/CD
-   ↓
-Production Systems
-
-04 — Security
-
-Networking
-   ↓
-Web Security
-   ↓
-Authentication
-   ↓
-OSINT
-   ↓
-Defensive Security
-
-⸻
-
-🌍 BEYOND_CODE
-
-Technology isn’t the only thing I enjoy.
-
-I also explore:
-
-* 🎮 Classic arcade gaming
-* 📱 iPhone technology
-* 🎨 Digital photography & editing
-* 🖼️ Visual design
-* 🌍 Language learning
-* 🎬 Media platforms
-* 🤖 AI tools
-* 💡 New technology concepts
-
-⸻
-
-🎯 2026_GOALS
-
-[ ] Build more production-ready applications
-[ ] Improve full-stack architecture skills
-[ ] Learn stronger backend development
-[ ] Improve database design
-[ ] Strengthen cybersecurity knowledge
-[ ] Improve UI/UX skills
-[ ] Build larger open-source projects
-[ ] Improve English communication
-[ ] Deploy more real-world products
-[ ] Keep experimenting with new technology
-
-⸻
-
-💬 MY_PHILOSOPHY
-
-“Don’t just use technology. Understand it. Build it. Break it. Improve it.”
-
-I believe the best way to learn technology is to create something real.
-
-Not everything will work on the first attempt.
-
-That’s part of the process.
-
-FAILED BUILD      → Knowledge
-BUG               → Experience
-ERROR             → Investigation
-PROJECT           → Practice
-DEPLOYMENT        → Confidence
-SUCCESS           → Motivation
-
-⸻
-
-📈 THE_LONG_TERM_GOAL
-
-My long-term goal is to become a developer capable of taking an idea from zero to production.
-
-                     💡
-                    IDEA
-                     │
-                     ▼
-                ARCHITECTURE
-                     │
-                     ▼
-                  DESIGN
-                     │
-                     ▼
-                  CODING
-                     │
-              ┌──────┴──────┐
-              ▼             ▼
-           FRONTEND       BACKEND
-              │             │
-              └──────┬──────┘
-                     ▼
-                  DATABASE
-                     │
-                     ▼
-                  SECURITY
-                     │
-                     ▼
-                   TEST
-                     │
-                     ▼
-                 DEPLOY
-                     │
-                     ▼
-                  SCALE
-                     │
-                     ▼
-                   🚀
-
-⸻
-
-🤝 CONNECT
+🤝 Let’s Connect
 
 <p align="center">
 <a href="https://github.com/HACKERBOYDEVILYT">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ⸻
 
-⚡ FINAL_MESSAGE
-
 <p align="center">
 
-🚀 BUILD SOMETHING YOU’RE PROUD OF.
+⚡ BUILD.
 
-🧠 LEARN SOMETHING EVERY DAY.
+🧠 LEARN.
 
-🔥 NEVER STOP EXPERIMENTING.
+🔥 IMPROVE.
+
+🚀 REPEAT.
 
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:0f172a&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:020617&height=130&section=footer" width="100%"/>
 </p>
 <p align="center">
   <b>© Robiul • Built with curiosity, code & caffeine ☕</b>
+</p>
+<p align="center">
+  <sub>Always learning. Always building. Always moving forward.</sub>
 </p>
