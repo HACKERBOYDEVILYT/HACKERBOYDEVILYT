@@ -1,53 +1,568 @@
-<h1 align="center">Hi 👋, I'm ROBIUL</h1>
-<h3 align="center">A passionate frontend developer from BANGLADESH</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+👋 Hi, I’m Robiul
 
+🚀 Developer • Builder • Technology Enthusiast • Gamer • Creative Explorer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackerboydevilyt&label=Profile%20views&color=0e75b6&style=flat" alt="hackerboydevilyt" /> </p>
+Welcome to my GitHub profile! I’m Robiul, a curious and ambitious technology enthusiast who enjoys turning ideas into real digital experiences.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackerboydevilyt" alt="hackerboydevilyt" /></a> </p>
+I love exploring web development, full-stack applications, UI/UX design, cybersecurity concepts, OSINT-style platforms, gaming, mobile technology, cloud deployment, and creative digital projects.
 
-- 🔭 I’m currently working on **Track Back**
+💡 My mindset:
+Think → Build → Break → Learn → Improve → Build Again.
 
-- 🌱 I’m currently learning **Python programing**
+⸻
 
-- 💬 Ask me about **Android ,**
+🧑‍💻 About Me
 
-- 📫 How to reach me **ayanislam10000@gmail.com**
+I’m passionate about creating things rather than simply using them.
 
-- ⚡ Fun fact **I AM FUNNY 🙂**
+When I see an interesting website, application, game, or digital platform, I naturally start thinking about how it works behind the scenes and how I could build something similar or better.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/নাই" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="নাই" height="30" width="40" /></a>
-<a href="https://dev.to/নাই🤔" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="নাই🤔" height="30" width="40" /></a>
-<a href="https://twitter.com/বড়লোক এপস চালাই না" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="বড়লোক এপস চালাই না" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/চালাই না🙂" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="চালাই না🙂" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/এটা ও নাই" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="এটা ও নাই" height="30" width="40" /></a>
-<a href="https://codesandbox.com/নাই😅" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="নাই😅" height="30" width="40" /></a>
-<a href="https://kaggle.com/এটা আবার কি" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="এটা আবার কি" height="30" width="40" /></a>
-<a href="https://fb.com/md ariyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md ariyan" height="30" width="40" /></a>
-<a href="https://instagram.com/ayanislam10000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayanislam10000" height="30" width="40" /></a>
-<a href="https://dribbble.com/এটা কি 🙃" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="এটা কি 🙃" height="30" width="40" /></a>
-<a href="https://www.behance.net/nai." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nai." height="30" width="40" /></a>
-<a href="https://hashnode.com/এটা জানি না" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="এটা জানি না" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/secret gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="secret gamer" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/১ লাখ এর ভিতরে ও নাই" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="১ লাখ এর ভিতরে ও নাই" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/নাই😅" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="নাই😅" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/😅😅" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="😅😅" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nai" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/nai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="nai" height="30" width="40" /></a>
-<a href="https://discord.gg/চালাই না" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="চালাই না" height="30" width="40" /></a>
-<a href="/nai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nai" height="30" width="40" /></a>
-</p>
+My interests include:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+* 🌐 Web Development
+* ⚛️ React & Modern Frontend Development
+* 🖥️ Full-Stack Application Architecture
+* 🔐 Cybersecurity & Security Concepts
+* 🕵️ OSINT & Intelligence Platforms
+* 🎮 Game Development & Arcade Gaming
+* 📱 Mobile & iOS Technology
+* ☁️ Cloud Deployment
+* 🗄️ Databases & Backend Systems
+* 🎨 UI/UX & Visual Design
+* 🤖 AI-powered Applications
+* 🧪 Experimental Technology Projects
+* 🌍 Learning English and Other Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackerboydevilyt&show_icons=true&locale=en&layout=compact" alt="hackerboydevilyt" /></p>
+I’m especially interested in professional-looking applications that combine strong engineering with modern design.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackerboydevilyt&show_icons=true&locale=en" alt="hackerboydevilyt" /></p>
+⸻
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerboydevilyt&" alt="hackerboydevilyt" /></p>
+🚀 What I Like Building
+
+I enjoy working on projects that go beyond simple demonstrations.
+
+🌐 Web Applications
+
+I like building applications with:
+
+* React
+* Vite
+* JavaScript
+* Modern CSS
+* Responsive layouts
+* Component-based architecture
+* API integration
+* State management
+* Authentication
+* Dashboards
+* Search
+* Pagination
+* Loading states
+* Error handling
+
+⸻
+
+🎬 Anime Streaming Platform
+
+One of my major project concepts is a professional anime streaming-style platform.
+
+The project explores features such as:
+
+* 🏠 Modern homepage
+* 🔎 Anime search
+* 📺 Anime details
+* ▶️ Video player
+* 🔥 Trending anime
+* ⭐ Popular anime
+* 📅 Seasonal anime
+* 🏷️ Genre browsing
+* ❤️ Watchlist
+* 🕘 Watch history
+* 👤 User profile
+* 📊 Continue Watching
+* 🔄 Pagination
+* ⚡ API caching
+* 🖼️ Posters and thumbnails
+* 📡 Real API integration
+
+The goal is to move beyond a static interface and create a more complete streaming application architecture.
+
+⸻
+
+🔐 VPN Application
+
+Another major project direction is a professional VPN application.
+
+The concept explores a complete product architecture rather than only a connection interface.
+
+Possible components include:
+
+* 🌐 VPN server infrastructure
+* 🔐 Authentication
+* 👤 User accounts
+* 🗺️ Server/region selection
+* 📡 Connection sessions
+* 🌍 DNS configuration
+* 📊 Connection telemetry
+* 🛠️ Admin panel
+* 📱 Mobile application
+* 🖥️ Web dashboard
+* 🔑 API security
+* 🗄️ Database
+* ☁️ Cloud deployment
+
+The project has also helped me explore how frontend, backend, networking, infrastructure, and deployment work together.
+
+⸻
+
+🕵️ OSINT & Cybersecurity Projects
+
+I’m interested in cybersecurity concepts and OSINT-style applications.
+
+I enjoy exploring how information can be organized into professional security dashboards.
+
+Some concepts I’m interested in include:
+
+* 🔍 Passive information gathering
+* 🌐 Domain intelligence
+* 🛰️ DNS information
+* 🖥️ IP information
+* 🔗 Relationship mapping
+* 🕸️ Graph visualization
+* 📊 Scan dashboards
+* 📜 Scan history
+* ⚡ Real-time events
+* 🔐 Authentication
+* 👥 RBAC
+* 🔑 API-key management
+* 📄 Report generation
+* 🗄️ PostgreSQL
+* ⚙️ Redis workers
+* 🔌 WebSocket events
+
+My focus is on authorized and legitimate security research, learning, and defensive tooling.
+
+⸻
+
+🎮 Gaming
+
+Gaming is another major interest of mine.
+
+I especially enjoy classic arcade and fighting games.
+
+Some of the game styles I enjoy include:
+
+* 🥊 The King of Fighters
+* 🔫 Metal Slug
+* ⚔️ Samurai Shodown
+* 👊 Street Fighter
+* 🥋 Fatal Fury
+* 🎮 Classic arcade games
+* 🕹️ Retro games
+
+I’m also interested in building games and experimenting with game interfaces.
+
+⸻
+
+🎲 Game Development
+
+I’ve explored concepts such as professional Ludo applications and other game-related projects.
+
+A complete game can involve:
+
+* 🎲 Game state
+* 👥 Players
+* 🔄 Turn management
+* 🎯 Game rules
+* 🧩 State management
+* 🎨 Animations
+* 🔊 Sound effects
+* 📱 Responsive design
+* 🏆 Winning conditions
+* 🖥️ Menus and UI
+* 🌐 Multiplayer architecture
+
+I enjoy taking a simple game concept and thinking about how it could become a polished application.
+
+⸻
+
+👨‍💻 Personal Portfolio
+
+I’m also building my own professional portfolio under the name Robiul.
+
+The portfolio is intended to showcase:
+
+* 👋 About Me
+* 🛠️ Skills
+* 🚀 Projects
+* 💼 Experience
+* 🐙 GitHub activity
+* 📝 Blog
+* 📄 Resume
+* 📬 Contact
+* 🎨 Professional UI
+* ⚙️ Administration
+
+The goal is to create more than a simple personal website.
+
+It should represent my development journey and the projects I build.
+
+⸻
+
+🛠️ Technologies I’m Exploring
+
+Frontend
+
+HTML
+CSS
+JavaScript
+React
+Vite
+Responsive Design
+Modern UI/UX
+
+Backend
+
+Node.js
+REST APIs
+Authentication
+API Architecture
+WebSockets
+Background Workers
+
+Databases
+
+PostgreSQL
+SQL
+Database Design
+Data Modeling
+
+Infrastructure
+
+Git
+GitHub
+Replit
+Netlify
+Cloudflare
+Cloud Deployment
+DNS
+
+Development Concepts
+
+Full-Stack Architecture
+API Integration
+Authentication
+State Management
+Caching
+Real-Time Systems
+Responsive Design
+Debugging
+Deployment
+
+⸻
+
+🎨 Design Interests
+
+I enjoy interfaces that feel modern, immersive, and technically sophisticated.
+
+Some visual styles I like include:
+
+🖥️ Hacker / Cyber UI
+
+* Dark interfaces
+* Terminal-inspired elements
+* Network dashboards
+* System status panels
+* Real-time logs
+* Technical typography
+* Data visualization
+
+🎬 Streaming UI
+
+* Large hero sections
+* Posters
+* Carousels
+* Continue-watching sections
+* Video players
+* Metadata panels
+* Modern navigation
+
+🎮 Gaming UI
+
+* Bold typography
+* Animated interfaces
+* Character-focused layouts
+* Status indicators
+* Interactive menus
+* Arcade-inspired visuals
+
+⸻
+
+📚 How I Learn
+
+I prefer project-based learning.
+
+Instead of only studying theory, I like building something and learning the concepts required to make it work.
+
+My learning cycle is:
+
+Idea
+  ↓
+Build
+  ↓
+Error
+  ↓
+Investigate
+  ↓
+Understand
+  ↓
+Fix
+  ↓
+Improve
+  ↓
+Deploy
+  ↓
+Build Again
+
+I believe mistakes are an important part of becoming a better developer.
+
+A broken build can teach something.
+
+A deployment error can teach something.
+
+A difficult API can teach something.
+
+A bad UI can teach something.
+
+Every project can become experience.
+
+⸻
+
+🌍 English & Communication
+
+I’m also working on improving my English.
+
+This is important to me because a large part of the global technology ecosystem uses English.
+
+Technical documentation, GitHub repositories, programming tutorials, API documentation, developer communities, and software engineering resources are heavily connected to English.
+
+Improving my English therefore supports my development journey as well.
+
+⸻
+
+📱 Mobile Technology
+
+I’m interested in mobile technology, especially the iPhone ecosystem.
+
+Some areas I explore include:
+
+* 📱 iOS applications
+* 🛍️ App Store
+* 🎮 Mobile gaming
+* 🧹 iOS storage management
+* 🛡️ Privacy
+* 🌐 DNS
+* 🚫 Ad and tracker blocking
+* 🎨 Mobile UI
+* 📲 Responsive applications
+
+I enjoy understanding how desktop, web, and mobile experiences differ.
+
+⸻
+
+☁️ Deployment & Real-World Development
+
+Building an application locally is only one part of development.
+
+I also enjoy learning about:
+
+* GitHub repositories
+* Production builds
+* Hosting
+* Deployment
+* DNS
+* Environment variables
+* Build configuration
+* Cloud infrastructure
+* Debugging production issues
+
+I’ve worked with platforms and tools such as:
+
+GitHub
+Replit
+Netlify
+Cloudflare
+
+These experiences have helped me understand the difference between:
+
+“The code works on my machine.”
+
+and
+
+“The application is actually available for users.”
+
+⸻
+
+🧠 My Development Philosophy
+
+I believe good software should have three important qualities:
+
+1. ⚙️ Functionality
+
+It should actually work.
+
+2. 🎨 Design
+
+It should be easy and enjoyable to use.
+
+3. 🧱 Architecture
+
+It should be organized well enough to grow.
+
+A beautiful interface with broken functionality is not enough.
+
+A powerful backend with terrible usability is not enough.
+
+A working prototype with impossible-to-maintain code is not enough.
+
+The goal is to combine all three.
+
+⸻
+
+🔥 Current Focus
+
+I’m currently interested in improving my skills across several areas:
+
+* ⚛️ React development
+* 🌐 Full-stack architecture
+* 🔐 Security concepts
+* 🕵️ OSINT tooling
+* 🎨 Professional UI
+* 🗄️ Backend systems
+* ☁️ Deployment
+* 📱 Mobile applications
+* 🎮 Game development
+* 🤖 AI-powered applications
+* 📚 English communication
+
+⸻
+
+🎯 Future Goals
+
+My long-term goal is to become capable of taking an idea from concept to production.
+
+That means being able to:
+
+Design
+   ↓
+Plan
+   ↓
+Code
+   ↓
+Connect APIs
+   ↓
+Build Backend
+   ↓
+Design Database
+   ↓
+Secure Application
+   ↓
+Test
+   ↓
+Deploy
+   ↓
+Maintain
+   ↓
+Scale
+
+I want to understand the complete lifecycle of software products.
+
+⸻
+
+💭 A Few Things About Me
+
+* 🚀 I like building ambitious projects.
+* 🧠 I’m naturally curious about technology.
+* 🔧 I enjoy fixing broken projects.
+* 🎨 I care about UI and visual quality.
+* 🎮 I enjoy classic arcade games.
+* 🔐 I’m interested in cybersecurity concepts.
+* 🌐 I enjoy web development.
+* 📱 I like exploring mobile technology.
+* ☁️ I’m interested in deployment and infrastructure.
+* 📚 I’m continuously learning.
+* 💡 I often turn random ideas into project concepts.
+* 🔥 I prefer building something real over only talking about it.
+
+⸻
+
+🧩 My Favorite Development Cycle
+
+                    💡 IDEA
+                       │
+                       ▼
+                 📝 PLANNING
+                       │
+                       ▼
+                 🎨 DESIGN
+                       │
+                       ▼
+                  💻 CODE
+                       │
+                       ▼
+                  🧪 TEST
+                       │
+                       ▼
+                 🐛 DEBUG
+                       │
+                       ▼
+                 ⚡ IMPROVE
+                       │
+                       ▼
+                  ☁️ DEPLOY
+                       │
+                       ▼
+                  🚀 RELEASE
+                       │
+                       ▼
+                 🔥 NEXT IDEA
+
+⸻
+
+🌟 Final Words
+
+My journey is still in progress.
+
+There are many technologies I haven’t learned yet.
+
+There are many projects I haven’t finished yet.
+
+There are many ideas that are still only ideas.
+
+And that’s okay.
+
+I’m not trying to become an expert overnight.
+
+I’m trying to become better with every project.
+
+Every line of code is another lesson.
+
+Every error is another challenge.
+
+Every project is another chapter.
+
+And every chapter brings me closer to becoming the developer I want to be.
+
+⸻
+
+🚀 Keep Building
+
+“Think big. Build patiently. Break things. Learn from them. Build again.”
+
+— Robiul
+
+⸻
+
+⭐ If you find something interesting in my projects, feel free to explore the repositories and follow the journey.
+
+The journey is still being built. 🚀
