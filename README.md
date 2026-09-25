@@ -1,65 +1,117 @@
-<!-- ========================= ROBIUL GITHUB PROFILE ========================= -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0F172A,100:06B6D4&text=ROBIUL&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20EXPLORER&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+modern+web+experiences;Exploring+cybersecurity+%26+OSINT;Designing+clean+and+useful+interfaces;Turning+ideas+into+real+products+%F0%9F%9A%80" />
-<a href="https://github.com/HACKERBOYDEVILYT">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-10B981?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=flat-square&color=06B6D4&label=PROFILE+VIEWS"/>
-</div>
-
-⸻
-
 <div align="center">
 
-👋 Hi, I’m Robiul
+👋 Hey, I’m Robiul
 
-I build modern web applications, interactive interfaces, and experimental digital products.
+Full-Stack Developer · Builder · Explorer
 
-<br>
-
-Web Development   •  
-Cybersecurity   •  
-OSINT   •  
-UI/UX   •  
-Gaming   •  
-AI
-
+<p>
+  <img src="https://img.shields.io/badge/BUILDING-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FULL--STACK-06B6D4?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-EC4899?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+<p>
+  <a href="https://github.com/HACKERBOYDEVILYT">
+    <img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/github/followers/HACKERBOYDEVILYT?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/HACKERBOYDEVILYT?label=Stars&style=flat-square" />
+</p>
+<p>
+  <i>Turning ideas into polished digital products.</i>
+</p>
 </div>
 
 ⸻
 
 🧑‍💻 About Me
 
-I’m Robiul, a developer who enjoys taking an idea from a simple concept and turning it into a real, polished digital experience.
+I’m Robiul, a developer who enjoys turning ideas into functional, modern, and visually polished products.
 
-I like working across the stack — from frontend interfaces and animations to APIs, databases, authentication, deployment, and system architecture.
+I work across frontend development, backend architecture, UI/UX, cybersecurity concepts, OSINT, gaming projects, APIs, and deployment workflows.
 
-I’m especially interested in projects that combine technology + design + experimentation.
+I learn best by building.
 
-What I enjoy
+Idea
+ ↓
+Design
+ ↓
+Build
+ ↓
+Debug
+ ↓
+Improve
+ ↓
+Ship
 
-* 🚀 Building real-world applications
-* 🎨 Designing modern interfaces
-* 🧩 Creating reusable components
-* 🔐 Exploring cybersecurity concepts
-* 🔎 Learning about OSINT workflows
-* 🎮 Experimenting with gaming projects
-* ☁️ Exploring deployment and cloud platforms
-* 🤖 Exploring AI-powered applications
-* 🧠 Learning through real projects
+I’m especially interested in projects that combine technology + creativity + real-world usability.
 
 ⸻
 
-<div align="center">
+⚡ What I Build
 
-BUILD → LEARN → IMPROVE → REPEAT
+<table>
+<tr>
+<td width="50%">
 
-</div>
+🌐 Web Applications
+
+Modern interfaces with:
+
+* React
+* Vite
+* JavaScript
+* Responsive UI
+* API integration
+* Component architecture
+
+</td>
+<td width="50%">
+
+🔐 Security & OSINT
+
+Exploring:
+
+* OSINT workflows
+* Security tooling
+* DNS & network concepts
+* Metadata analysis
+* Authentication
+* Secure architecture
+
+</td>
+</tr>
+<tr>
+<td>
+
+🎮 Interactive Products
+
+Building experimental:
+
+* Games
+* Streaming interfaces
+* Interactive dashboards
+* Real-time experiences
+* Mobile-first interfaces
+
+</td>
+<td>
+
+☁️ Deployment
+
+Working with:
+
+* GitHub
+* Replit
+* Netlify
+* Cloudflare
+* APIs
+* Databases
+* Production workflows
+
+</td>
+</tr>
+</table>
 
 ⸻
 
@@ -69,15 +121,15 @@ BUILD → LEARN → IMPROVE → REPEAT
 
 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 
-Backend & Database
+Backend & Data
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,redis" />
 
-Tools & Infrastructure
+Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,cloudflare,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,replit,netlify,cloudflare,figma,vscode" />
 </div>
 
 ⸻
@@ -90,101 +142,89 @@ Tools & Infrastructure
 
 🎬 Zosim Anime
 
-Modern Anime Discovery & Streaming UI
-
-A cinematic anime platform concept focused on discovery, browsing, watch history, personal libraries, and an immersive viewing experience.
+Anime discovery and streaming-style platform focused on a modern entertainment experience.
 
 Highlights
 
-* 🔎 Anime discovery
-* 🔥 Trending & popular sections
-* 📅 Seasonal browsing
-* 🎞️ Anime details
-* ▶️ Video player
-* 📊 Continue watching
-* 🕘 Watch history
-* 📚 Watchlist
-* ⚡ API integration
-* 📱 Responsive UI
+* Anime discovery
+* Search & filtering
+* Detailed anime pages
+* Watch interface
+* Continue watching
+* API integration
+* Responsive design
 
 Stack
 
-React Vite JavaScript CSS API
+React Vite JavaScript API
 
 </td>
 <td width="50%" valign="top">
 
-🔐 VPN Platform
+🔐 Professional VPN
 
-Professional VPN Application Architecture
-
-A full-stack VPN product concept covering the client experience, authentication, sessions, server regions, DNS, telemetry, and administration.
+A full-stack VPN platform concept designed around a professional product architecture.
 
 Highlights
 
-* 🔑 Authentication
-* 🌍 Server regions
-* 🔌 Connection sessions
-* 🌐 DNS management
-* 📊 Telemetry
-* 🛡️ Security architecture
-* 👨‍💻 Admin dashboard
-* 📱 Mobile direction
-* ☁️ Cloud deployment
+* Authentication
+* VPN sessions
+* Server regions
+* DNS concepts
+* Telemetry
+* Admin dashboard
+* API architecture
+* Deployment workflow
 
 Stack
 
-React Node.js API Database Cloud
+React Node.js API Cloud
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 🕷️ VoidSpider
 
-OSINT & Security Research Platform
-
-An OSINT-inspired platform focused on authorized passive research, information correlation, scan history, graph-based visualization, and reporting.
+An OSINT/security research platform concept inspired by professional investigation tooling.
 
 Highlights
 
-* 🔎 Research workflows
-* 🌐 DNS intelligence
-* 📡 IP information
-* 🧩 Data correlation
-* 📊 Graph visualization
-* 🗂️ Scan history
-* 🔐 Authentication & RBAC
-* 📄 Report generation
-* ⚡ Live scan events
+* Passive OSINT workflows
+* DNS/IP information
+* Metadata
+* Scan history
+* Graph relationships
+* Authentication
+* RBAC
+* Reports
+* Real-time events
 
 Stack
 
-React Python PostgreSQL Redis WebSockets
+React FastAPI PostgreSQL Redis WebSocket
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
 🎲 Ludo
 
-Interactive Multiplayer Game Concept
-
-A modern Ludo experience focused on game-state management, responsive UI, player interactions, animations, and game logic.
+A modern multiplayer-style Ludo game project focused on gameplay logic and polished interaction.
 
 Highlights
 
-* 🎲 Dice system
-* ♟️ Piece movement
-* 🔄 Turn management
-* 🏆 Win conditions
-* 👥 Player system
-* 🎨 Interactive board
-* 📱 Responsive interface
+* Dice system
+* Player movement
+* Turn management
+* Collision logic
+* Win conditions
+* Game state
+* Responsive interface
 
 Stack
 
-JavaScript React Game Logic CSS
+React JavaScript Game Logic
 
 </td>
 </tr>
@@ -192,303 +232,291 @@ JavaScript React Game Logic CSS
 
 ⸻
 
-🎨 UI / UX
+🎨 UI / UX Philosophy
 
-I enjoy interfaces that feel clean, modern, immersive, and easy to navigate.
+I don’t want an application to simply work.
 
-My visual style
+I want it to feel finished.
 
-<table>
-<tr>
-<td align="center">🌑<br><b>Dark UI</b><br><sub>Deep backgrounds</sub></td>
-<td align="center">💠<br><b>Neon Accent</b><br><sub>Cyan / Blue</sub></td>
-<td align="center">🪟<br><b>Glass UI</b><br><sub>Soft surfaces</sub></td>
-<td align="center">✨<br><b>Motion</b><br><sub>Subtle animation</sub></td>
-<td align="center">📱<br><b>Responsive</b><br><sub>All screens</sub></td>
-</tr>
-</table>
+My design priorities
 
-Design philosophy
+Principle	Focus
+🎯 Clarity	Users should understand the interface quickly
+✨ Visual hierarchy	Important information gets attention first
+📱 Responsiveness	Desktop and mobile should both feel intentional
+🧩 Consistency	Components should share one visual language
+⚡ Performance	Avoid unnecessary complexity
+🔐 Trust	Security and predictable behavior matter
+🧠 Usability	Features should solve real problems
 
-Good UI should look beautiful without making the user think about how it works.
-
-I usually prefer:
-
-Minimal layouts · Strong hierarchy · Consistent spacing · Readable typography · Subtle animations · Clear navigation
+Good UI gets attention. Great UX keeps it.
 
 ⸻
 
-🔐 Cybersecurity & OSINT
+🔎 Cybersecurity & OSINT
 
-Cybersecurity is one of the technical areas I enjoy exploring.
+My interest in cybersecurity is strongly connected to understanding how systems work.
 
-My interests include:
+Areas I explore include:
 
-* 🌐 Networking
-* 🔎 OSINT
-* 🛡️ Web security
-* 🔑 Authentication
-* 👤 Authorization
-* 🔌 API security
-* 🌍 DNS
-* 🔐 VPN architecture
-* 📊 Security dashboards
-* 🧪 Defensive research
+* OSINT methodologies
+* DNS & domain intelligence
+* IP/network concepts
+* Metadata
+* Authentication systems
+* API security
+* Access control
+* Security-oriented interfaces
+* Data relationships
+* Investigation dashboards
 
-For OSINT-related projects, the focus is on authorized, passive, defensive, and research-oriented workflows.
+My focus is on authorized, defensive, educational, and research-oriented use cases.
 
 ⸻
 
 🧠 How I Learn
 
-I learn best by actually building things.
+I prefer practical learning over simply reading documentation.
 
-   DISCOVER
-      ↓
-    EXPLORE
-      ↓
-     BUILD
-      ↓
-     BREAK
-      ↓
-    DEBUG
-      ↓
-  UNDERSTAND
-      ↓
-   IMPROVE
-      │
-      └───────────↻
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Rebuild Better
 
-A difficult error is often more useful than a perfect tutorial.
+Every error becomes another opportunity to understand the system underneath the interface.
 
 ⸻
 
-⚙️ Development Philosophy
+🐛 Debugging Mode
 
-I try to think beyond:
+When something breaks, my workflow is simple:
 
-“Does the code work?”
+Inspect
+   ↓
+Reproduce
+   ↓
+Find the root cause
+   ↓
+Fix
+   ↓
+Test
+   ↓
+Refactor
 
-I also ask:
+I don’t just want the error to disappear.
 
-* Is the interface clear?
-* Is the application responsive?
-* What happens when something fails?
-* Is the architecture maintainable?
-* Can the project scale?
-* Is the experience fast?
-* Is security considered?
-* Does the product actually feel complete?
+I want to understand why it happened.
 
 ⸻
 
 ☁️ Development Workflow
 
-<div align="center">
-IDEA
-  ↓
-RESEARCH
-  ↓
-ARCHITECTURE
-  ↓
+Idea
+  │
+  ▼
+Architecture
+  │
+  ▼
 UI / UX
-  ↓
-DEVELOPMENT
-  ↓
-TESTING
-  ↓
-DEBUGGING
-  ↓
-DEPLOYMENT
-  ↓
-IMPROVEMENT
+  │
+  ▼
+Implementation
+  │
+  ▼
+API Integration
+  │
+  ▼
+Testing
+  │
+  ▼
+GitHub
+  │
+  ▼
+Deployment
+  │
+  ▼
+Iteration
+
+⸻
+
+📚 Currently Learning
+
+<div align="center">
+
+Area	Exploring
+🌐 Full-Stack	Scalable application architecture
+🔐 Security	Defensive security & OSINT concepts
+⚙️ Backend	APIs, databases & real-time systems
+☁️ Cloud	Deployment & infrastructure
+🎨 UI/UX	Product-level interface design
+🤖 AI	AI-assisted development workflows
+
 </div>
-
-Tools I use and explore
-
-GitHub · Replit · Netlify · Cloudflare · Docker · Linux
 
 ⸻
 
 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" width="40%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&hide_border=true&theme=transparent" />
 </div>
 <br>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&hide_border=true&theme=transparent" />
 </div>
 
 ⸻
 
-📈 Current Focus
+🐍 Contribution Activity
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="180">
-
-🌐
-
-Web Development
-
-</td>
-<td align="center" width="180">
-
-⚙️
-
-Backend
-
-</td>
-<td align="center" width="180">
-
-🔐
-
-Security
-
-</td>
-<td align="center" width="180">
-
-🔎
-
-OSINT
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-🎨
-
-UI / UX
-
-</td>
-<td align="center">
-
-📱
-
-Mobile
-
-</td>
-<td align="center">
-
-☁️
-
-Cloud
-
-</td>
-<td align="center">
-
-🤖
-
-AI
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/HACKERBOYDEVILYT/HACKERBOYDEVILYT/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
 ⸻
 
-🎯 2026 Roadmap
+🎯 2026 Focus
 
-BUILD
-
-* [x]	Real-world web projects
-* [x]	Modern UI experiments
-* [x]	GitHub-based workflows
-* [x]	Deployment experiments
-
-LEVEL UP
-
-* [ ]	Advanced backend architecture
-* [ ]	Database engineering
-* [ ]	API architecture
-* [ ]	Cloud infrastructure
-* [ ]	Security engineering
-* [ ]	Mobile development
-* [ ]	AI integration
-
-CREATE
-
-* [ ]	Larger full-stack products
-* [ ]	More advanced developer tools
-* [ ]	More polished interfaces
-* [ ]	More ambitious applications
+┌─────────────────────────────────────┐
+│          2026 DEVELOPMENT           │
+├─────────────────────────────────────┤
+│                                     │
+│  █ Full-Stack Development           │
+│  █ Better UI / UX                   │
+│  █ Backend Architecture             │
+│  █ Cybersecurity Knowledge           │
+│  █ OSINT Research                   │
+│  █ Production-Ready Projects        │
+│  █ Cloud & Deployment               │
+│  █ AI-Assisted Development          │
+│                                     │
+└─────────────────────────────────────┘
 
 ⸻
 
-🌌 Beyond Code
+💡 Product Mindset
 
-For me, development is not only about programming languages.
+Before building a feature, I like to think about:
 
-It’s also about:
+Why does it exist?
 
-<div align="center">
+Who uses it?
 
-CURIOSITY · CREATIVITY · RESEARCH · DESIGN
-PROBLEM SOLVING · EXPERIMENTATION · PERSISTENCE
+How should it feel?
 
-</div>
+What happens when something goes wrong?
+
+How can it become better later?
+
+This mindset helps turn a collection of features into a coherent product.
 
 ⸻
 
-💭 Developer Philosophy
+🎮 Beyond Code
+
+Technology isn’t my only interest.
+
+I also enjoy:
+
+* 🎮 Retro & arcade gaming
+* 🎨 Visual design
+* 📱 Mobile technology
+* 🎬 Anime & entertainment platforms
+* 🧪 Experimental projects
+* 🤖 AI tools
+* 🌐 Exploring new technologies
+
+These interests often become inspiration for new projects.
+
+⸻
+
+🧩 Developer Philosophy
 
 <div align="center">
 
 Build something.
 
-Understand it.
+Break something.
 
-Break it.
+Understand something.
 
-Fix it.
+Improve something.
 
-Make it better.
-
-Repeat. 🔁
+Repeat.
 
 </div>
 
 ⸻
 
-📡 Current Status
+📌 Current Status
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-System	Status
-🌐 Web Development	🟢 Active
-⚙️ Backend	🟢 Learning
-🎨 UI/UX	🟢 Active
-🔐 Cybersecurity	🟢 Exploring
-🔎 OSINT	🟢 Exploring
-🎮 Gaming	🟢 Building
-📱 Mobile	🟡 Exploring
-☁️ Cloud	🟡 Learning
-🤖 AI	🟡 Exploring
+💻
 
-</div>
+Building
+
+Full-Stack Projects
+
+</td>
+<td align="center" width="25%">
+
+🔐
+
+Exploring
+
+Security & OSINT
+
+</td>
+<td align="center" width="25%">
+
+🎨
+
+Improving
+
+UI / UX
+
+</td>
+<td align="center" width="25%">
+
+🚀
+
+Shipping
+
+Real Projects
+
+</td>
+</tr>
+</table>
 
 ⸻
 
-🤝 Let’s Connect
+🤝 Connect
 
 <div align="center">
 <a href="https://github.com/HACKERBOYDEVILYT">
-<img src="https://img.shields.io/badge/GitHub-HACKERBOYDEVILYT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-HACKERBOYDEVILYT-181717?style=for-the-badge&logo=github" />
 </a>
+</div>
+
+⸻
+
+<div align="center">
 
 Thanks for visiting my profile! 👋
 
-I’m always learning, experimenting, and building something new.
+Build with curiosity. Ship with purpose.
 
 <br>
-
-BUILD   LEARN   EXPLORE   CREATE   EVOLVE
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,50:0F172A,100:06B6D4&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:06B6D4" />
 </div>
-<!-- ======================= END OF README ======================= -->
