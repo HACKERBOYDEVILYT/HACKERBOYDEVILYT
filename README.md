@@ -1,243 +1,304 @@
 <div align="center">
-
-⚡ ROBIUL
-
-FULL-STACK DEVELOPER · CYBERSECURITY EXPLORER · OSINT BUILDER
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=%24+Initializing+Robiul...;%24+Full-Stack+Development+%5BONLINE%5D;%24+Cybersecurity+%26+OSINT+%5BACTIVE%5D;%24+Modern+UI%2FUX+%5BLOADED%5D;%24+Building+Ideas+Into+Digital+Products+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,45:0B1120,75:0E7490,100:06B6D4&text=ROBIUL&fontColor=FFFFFF&fontSize=82&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20OSINT%20%E2%80%A2%20UI%2FUX&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
 <br>
-<img src="https://img.shields.io/badge/%E2%9A%A1_STATUS-ACTIVE-00E5FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/%F0%9F%92%BB_MODE-BUILDING-7C3AED?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0_MINDSET-ALWAYS_LEARNING-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=%24+whoami+%E2%86%92+Robiul;%24+Initializing+Developer+Profile...;%24+Full-Stack+Development+%5BONLINE%5D;%24+Cybersecurity+%26+OSINT+%5BACTIVE%5D;%24+Modern+UI%2FUX+%5BLOADED%5D;%24+Building+Digital+Products+%F0%9F%9A%80" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-7C3AED?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-10B981?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
 </div>
 
 ⸻
 
-01 // IDENTITY
+<div align="center">
 
-“I don’t just write code — I build experiences, systems, and products.”
+⚡ SYSTEM ONLINE
 
-I’m Robiul, a developer driven by curiosity, creativity, experimentation, and the desire to understand how digital systems actually work.
+Welcome to Robiul's Digital Workspace
 
-My interests move across multiple areas of technology:
-
-FULL-STACK DEVELOPMENT
-        ↓
-MODERN UI / UX
-        ↓
-BACKEND ARCHITECTURE
-        ↓
-CYBERSECURITY
-        ↓
-OSINT
-        ↓
-CLOUD & DEPLOYMENT
-        ↓
-GAMING & MOBILE
-        ↓
-AI & EXPERIMENTATION
-
-I enjoy taking an idea from a simple concept and gradually transforming it into a complete, polished, and functional product.
+</div>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ██████╗  ██████╗ ██████╗ ██╗██╗   ██╗██╗                  │
+│   ██╔══██╗██╔═══██╗██╔══██╗██║██║   ██║██║                  │
+│   ██████╔╝██║   ██║██████╔╝██║██║   ██║██║                  │
+│   ██╔══██╗██║   ██║██╔══██╗██║╚██╗ ██╔╝██║                  │
+│   ██║  ██║╚██████╔╝██████╔╝██║ ╚████╔╝ ██║                  │
+│   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝  ╚═╝                  │
+│                                                              │
+│   ROLE        : FULL-STACK DEVELOPER                         │
+│   STATUS      : ONLINE                                       │
+│   MODE        : BUILDING                                     │
+│   INTERESTS   : WEB • SECURITY • OSINT • GAMING • AI        │
+│                                                              │
+│   SYSTEM      : ████████████████████████████ 100%            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
 ⸻
 
-02 // ABOUT ME
+01 — 👋 ABOUT ME
 
-name: Robiul
+<div align="center">
+
+I’m Robiul — a developer who enjoys turning ideas into real products.
+
+</div>
+
+I’m interested in the complete journey of software development — from the first idea and interface design to backend architecture, databases, APIs, deployment, and continuous improvement.
+
+I enjoy building projects that are not only functional, but also clean, responsive, visually polished, and structured for future growth.
+
+WHAT DRIVES ME
+
+💡 IDEA
+   ↓
+🎨 DESIGN
+   ↓
+💻 DEVELOPMENT
+   ↓
+🧪 TESTING
+   ↓
+🔧 DEBUGGING
+   ↓
+🚀 DEPLOYMENT
+   ↓
+📈 IMPROVEMENT
+
+⸻
+
+02 — 🧬 DEVELOPER PROFILE
+
+<div align="center">
+
+🧑‍💻 Identity	⚡ Current Mode
+Robiul	BUILDING
+Full-Stack Developer	Always Learning
+Web Developer	Always Experimenting
+Cybersecurity Explorer	Always Improving
+
+</div>
+
+PROFILE
+
+name: "Robiul"
 role:
   - Full-Stack Developer
   - Web Application Builder
   - Cybersecurity Explorer
   - OSINT Enthusiast
-focus:
-  - Modern Web Development
-  - Backend Systems
+interests:
+  - Web Development
   - UI/UX
+  - Backend Architecture
   - Cybersecurity
   - OSINT
-  - Cloud Deployment
   - Gaming
-  - Mobile Development
+  - Mobile
   - AI
-development_style:
-  - Experimental
-  - Product-focused
-  - Visual
-  - Curious
-  - Always improving
 mindset:
-  "Build → Break → Understand → Improve"
+  - Curious
+  - Experimental
+  - Product Focused
+  - Problem Solving
+  - Continuous Learning
 
 ⸻
 
-03 // TERMINAL SESSION
+03 — 🖥️ TERMINAL
 
 ┌──[ROBIUL@GITHUB]─[~/profile]
 └─$ whoami
 Robiul
-┌──[ROBIUL@GITHUB]─[~/profile]
-└─$ cat mission.txt
-Build meaningful digital products.
-Learn how systems work.
-Create better interfaces.
-Solve difficult problems.
-Keep improving.
-┌──[ROBIUL@GITHUB]─[~/profile]
+└─$ echo $ROLE
+Full-Stack Developer
+└─$ echo $MISSION
+Build useful.
+Build beautiful.
+Build secure.
+Build better.
 └─$ systemctl status learning
 ● learning.service
-   Loaded: ACTIVE
-   Status: ALWAYS_RUNNING
-   Restart: NEVER
+   Status: ACTIVE
+   Mode: ALWAYS_RUNNING
+└─$ systemctl status creativity
+● creativity.service
+   Status: ACTIVE
+   Mode: UNLIMITED
+└─$ exit
+Permission denied.
 
 ⸻
 
-04 // DEVELOPMENT PHILOSOPHY
-
-⚙️ BUILD WITH PURPOSE
-
-I believe good development is more than making something technically functional.
-
-A strong product should be:
-
-Principle	Meaning
-⚡ Fast	Responsive and efficient
-🎨 Beautiful	Clean and visually consistent
-🧩 Modular	Easy to maintain and extend
-🔐 Secure	Designed with security in mind
-📱 Responsive	Works across devices
-🧠 Intuitive	Easy to understand
-🚀 Scalable	Ready for future growth
-
-⸻
-
-05 // TECH ARSENAL
+04 — 🛠️ TECH STACK
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,python,fastapi,postgres,mongodb,redis,git,github,linux,docker,cloudflare,netlify" />
-</div>
 
 FRONTEND
 
-HTML5        ████████████████████
-CSS3         ████████████████████
-JavaScript   ███████████████████░
-React        ██████████████████░░
-Vite         ██████████████████░░
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 
 BACKEND
 
-Node.js      ████████████████░░░░
-Express      ███████████████░░░░░
-Python       ███████████████░░░░░
-FastAPI      ██████████████░░░░░░
-REST APIs    ███████████████░░░░░
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 
-DATABASE & INFRASTRUCTURE
+DATABASE
 
-PostgreSQL   ███████████████░░░░░
-MongoDB      ██████████████░░░░░░
-Redis        █████████████░░░░░░░
-Git          ████████████████████
-GitHub       ████████████████████
-Docker       ████████████░░░░░░░░
-Cloud        ████████████░░░░░░░░
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+
+TOOLS & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,cloudflare,netlify" />
+</div>
 
 ⸻
 
-06 // FEATURED PROJECTS
+05 — ⚙️ ENGINEERING MINDSET
+
+I like approaching development as a complete system rather than isolated code.
+
+                 ┌───────────────┐
+                 │     IDEA      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    RESEARCH   │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │   ARCHITECT   │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BUILD     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     TEST      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    DEBUG      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    DEPLOY     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    IMPROVE    │
+                 └───────┬───────┘
+                         │
+                         └──────────────↺
+
+⸻
+
+06 — 🚀 FEATURED PROJECTS
+
+<div align="center">
 
 🎬 ZOSIM ANIME
 
-Modern Anime Discovery & Streaming Experience
+ANIME DISCOVERY • STREAMING UI • WATCH EXPERIENCE
 
-A cinematic anime platform concept focused on discovery, organization, and a smooth watching experience.
+</div>
+
+A modern anime platform concept focused on discovery, organization, and a cinematic watching experience.
+
+FEATURES
+
+┌────────────────────────────────────────────┐
+│ 🔎 SEARCH                                  │
+│ 🔥 TRENDING                                │
+│ ⭐ POPULAR                                 │
+│ 📅 SEASONAL                                │
+│ 🏷️ GENRES                                  │
+│ 🎞️ ANIME DETAILS                           │
+│ ▶️ VIDEO PLAYER                             │
+│ 🕘 WATCH HISTORY                            │
+│ 📚 WATCHLIST                                │
+│ 📊 CONTINUE WATCHING                       │
+│ ⚡ API INTEGRATION                          │
+│ 💾 CACHING                                  │
+│ 🛡️ ERROR / LOADING STATES                  │
+└────────────────────────────────────────────┘
+
+EXPERIENCE FLOW
 
 DISCOVER
    ↓
 SEARCH
    ↓
+SELECT
+   ↓
 EXPLORE
-   ↓
-ANIME DETAILS
-   ↓
-EPISODES
    ↓
 WATCH
    ↓
-TRACK PROGRESS
+TRACK
    ↓
-CONTINUE WATCHING
-
-CORE FEATURES
-
-* 🔎 Smart anime discovery
-* 🔥 Trending content
-* ⭐ Popular titles
-* 📅 Seasonal collections
-* 🏷️ Genre browsing
-* 🎞️ Anime details
-* ▶️ Video player
-* 🕘 Watch history
-* 📚 Personal watchlist
-* 📊 Continue watching
-* ⚡ API integration
-* 💾 Client-side caching
-* 🛡️ Loading & error states
-
-Design goal: cinematic visuals + fast navigation + clean information hierarchy.
+CONTINUE
 
 ⸻
 
-07 // VPN PLATFORM
+<div align="center">
 
-🔐 PROFESSIONAL VPN SYSTEM
+🔐 PROFESSIONAL VPN PLATFORM
 
-A full-stack VPN platform concept designed around a modern client experience, backend control plane, server regions, sessions, and administration.
+SECURE CONNECTION • SERVER REGIONS • CONTROL PLANE
 
-SYSTEM ARCHITECTURE
+</div>
+
+A full-stack VPN platform concept involving client applications, authentication, sessions, server regions, DNS, telemetry, and administration.
+
+ARCHITECTURE
 
                     ┌──────────────┐
                     │    CLIENT    │
                     └──────┬───────┘
                            │
-             ┌─────────────┴─────────────┐
-             │                           │
-        WEB APPLICATION             MOBILE APP
-             │                           │
-             └─────────────┬─────────────┘
-                           │
-                    ┌──────▼──────┐
+              ┌────────────┴────────────┐
+              │                         │
+          WEB CLIENT              MOBILE CLIENT
+              │                         │
+              └────────────┬────────────┘
+                           ↓
+                    ┌──────────────┐
                     │   API CORE   │
                     └──────┬───────┘
                            │
-       ┌───────────────────┼───────────────────┐
-       │                   │                   │
-   AUTH SYSTEM          SESSIONS           DATABASE
-       │                   │                   │
-       └───────────────────┼───────────────────┘
-                           │
-                    ┌──────▼──────┐
-                    │ VPN CONTROL │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+       AUTH             SESSIONS         DATABASE
+          │                │                │
+          └────────────────┼────────────────┘
+                           ↓
+                    ┌──────────────┐
+                    │ VPN CONTROL  │
                     └──────┬───────┘
                            │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-           USA           INDIA         EUROPE
-          REGION         REGION        REGION
+              ┌────────────┼────────────┐
+              ↓            ↓            ↓
+            USA          INDIA        EUROPE
+           REGION        REGION       REGION
 
-FOCUS AREAS
+CORE MODULES
 
 AUTH · SESSIONS · DNS · REGIONS · TELEMETRY · ADMIN · SECURITY · DEPLOYMENT
 
 ⸻
 
-08 // VOIDSPIDER
+<div align="center">
 
-🕷️ OSINT & SECURITY RESEARCH PLATFORM
+🕷️ VOIDSPIDER
 
-VoidSpider is an OSINT-inspired platform concept focused on structured, authorized, passive information gathering and investigation workflows.
+OSINT • SECURITY RESEARCH • DATA CORRELATION
 
-INVESTIGATION PIPELINE
+</div>
+
+VoidSpider is an OSINT-inspired platform concept focused on authorized passive research and structured information analysis.
+
+DATA PIPELINE
 
 TARGET
   │
@@ -248,8 +309,8 @@ COLLECT
   ├── WHOIS
   ├── IP DATA
   ├── SUBDOMAINS
-  ├── EMAIL METADATA
-  └── OTHER AUTHORIZED SOURCES
+  ├── METADATA
+  └── AUTHORIZED SOURCES
   │
   ▼
 NORMALIZE
@@ -266,115 +327,93 @@ ANALYZE
   ▼
 REPORT
 
-PLATFORM VISION
+SECURITY CONSOLE
 
-┌──────────────────────────────────────────────┐
-│ VOIDSPIDER // SECURITY CONSOLE               │
-├──────────────────────────────────────────────┤
-│                                              │
-│ TARGET  :: example.com                       │
-│ STATUS  :: SCANNING                          │
-│ MODULES :: DNS / IP / WHOIS / METADATA       │
-│                                              │
-│ PROGRESS                                      │
-│ ███████████████████░░░  82%                  │
-│                                              │
-│ LIVE EVENTS                                   │
-│ [12:31:02] DNS record detected               │
-│ [12:31:04] IP data collected                 │
-│ [12:31:07] Metadata module completed         │
-│                                              │
-└──────────────────────────────────────────────┘
-
-Security principle: authorized, defensive, and research-oriented workflows.
+╔════════════════════════════════════════════════════╗
+║ VOIDSPIDER // SECURITY CONSOLE                    ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║ TARGET   :: example.com                            ║
+║ STATUS   :: SCANNING                               ║
+║ MODULES  :: DNS / IP / WHOIS / METADATA            ║
+║                                                    ║
+║ PROGRESS                                            ║
+║ ███████████████████████░░░  82%                   ║
+║                                                    ║
+║ LIVE EVENTS                                         ║
+║                                                    ║
+║ [12:31:02] DNS record detected                     ║
+║ [12:31:04] IP information collected               ║
+║ [12:31:07] Metadata module completed              ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 
 ⸻
 
-09 // GAMING LAB
+<div align="center">
 
-🎮 BUILD • PLAY • EXPERIMENT
+🎲 LUDO
 
-Gaming projects allow me to explore another side of software engineering.
+GAME ENGINE • REAL-TIME STATE • INTERACTIVE UI
 
-LUDO
+</div>
+
+Gaming projects allow me to explore state management, interaction design, animation, game logic, and responsive interfaces.
 
 GAME ENGINE
-     │
-     ├── Dice System
-     ├── Turn Management
-     ├── Movement Logic
-     ├── Collision Rules
-     ├── Player State
-     ├── Win Conditions
-     └── Game UI
-
-The goal is to combine game logic + responsive UI + smooth interaction.
+    │
+    ├── 🎲 Dice
+    ├── ♟️ Movement
+    ├── 🔄 Turn System
+    ├── 💥 Collision
+    ├── 🏆 Win Logic
+    ├── 👥 Players
+    └── 🎨 Game UI
 
 ⸻
 
-10 // PORTFOLIO SYSTEM
+07 — 🎨 UI / UX DNA
 
-👨‍💻 ROBIUL.DEV
+<div align="center">
 
-A personal developer identity platform designed to showcase:
+DARK • MODERN • CYBER • CINEMATIC
 
-ABOUT
-SKILLS
-PROJECTS
-EXPERIENCE
-GITHUB
-BLOG
-CONTACT
+</div>
 
-FUTURE ADMIN ARCHITECTURE
-
-ADMIN DASHBOARD
-      │
-      ├── Projects
-      ├── Blog
-      ├── Messages
-      ├── Analytics
-      ├── Content
-      ├── Settings
-      └── Security
-
-⸻
-
-11 // UI / UX DNA
-
-MY VISUAL LANGUAGE
-
-DARK
-  +
-MINIMAL
-  +
-CYBER
-  +
-MODERN
-  +
-CINEMATIC
-  +
-RESPONSIVE
-
-DESIGN ELEMENTS
-
-Element	Style
-🌑 Background	Dark / Deep Navy
+Layer	Design Direction
+🌑 Background	Deep Navy / Black
 💠 Accent	Cyan / Electric Blue
-🪟 Cards	Glass / Elevated
-✨ Effects	Glow / Subtle Motion
+🪟 Components	Glass / Elevated
+✨ Effects	Glow / Motion
 🔤 Typography	Clean / Technical
-🧭 Navigation	Minimal
-📱 Layout	Responsive
+📐 Layout	Structured
+📱 Responsive	Mobile First
 🎬 Hero	Cinematic
+⚡ Interaction	Fast & Smooth
+
+VISUAL FORMULA
+
+DARK CANVAS
+     +
+GLASS SURFACES
+     +
+NEON ACCENTS
+     +
+SOFT GLOW
+     +
+MICRO ANIMATIONS
+     +
+CLEAN TYPOGRAPHY
+     =
+ROBIUL UI DNA
 
 ⸻
 
-12 // CYBERSECURITY INTEREST
+08 — 🔐 CYBERSECURITY
 
-My cybersecurity interests include understanding how modern applications, networks, APIs, and authentication systems operate.
+Cybersecurity is an important area of exploration because understanding system architecture also means understanding how those systems should be protected.
 
-AREAS OF INTEREST
+AREAS
 
 NETWORKING
 DNS
@@ -384,21 +423,17 @@ AUTHENTICATION
 AUTHORIZATION
 API SECURITY
 SESSION MANAGEMENT
-OSINT
 PRIVACY
+OSINT
 DEFENSIVE RESEARCH
 
-The objective is to understand systems deeply enough to design them more responsibly and securely.
+Principle: understand systems deeply, build responsibly, and keep security in the architecture.
 
 ⸻
 
-13 // OSINT MINDSET
+09 — 🔎 OSINT MINDSET
 
-OSINT is interesting because raw information is only the beginning.
-
-The real process is:
-
-COLLECT
+RAW DATA
    ↓
 FILTER
    ↓
@@ -412,15 +447,19 @@ ANALYZE
    ↓
 DOCUMENT
 
-THE KEY QUESTION
+CORE QUESTION
 
-“What does the available evidence actually establish?”
+What does the available evidence actually establish?
+
+Good research is not just about collecting more information.
+
+It is about understanding context, validating sources, and documenting conclusions carefully.
 
 ⸻
 
-14 // DEBUGGING MODE
+10 — 🧪 DEBUGGING MODE
 
-When something fails, I prefer to investigate the system rather than randomly change code.
+When something breaks:
 
 ERROR
   ↓
@@ -436,243 +475,210 @@ TEST
   ↓
 PREVENT
 
-COMMON CHECKPOINTS
+DEBUG CHECKLIST
 
-IMPORTS
-PATHS
-DEPENDENCIES
-CONFIGURATION
-ENVIRONMENT VARIABLES
-API RESPONSES
-DATABASE CONNECTIONS
-BUILD OUTPUT
-DEPLOYMENT SETTINGS
-
-⸻
-
-15 // DEPLOYMENT PIPELINE
-
-        LOCAL DEVELOPMENT
-                │
-                ▼
-              GIT
-                │
-                ▼
-             GITHUB
-                │
-                ▼
-          BUILD / TEST
-                │
-                ▼
-             DEPLOY
-                │
-                ▼
-           PRODUCTION
-                │
-                ▼
-          MONITOR / FIX
-                │
-                └──────────↺
-
-TOOLS
-
-Git · GitHub · Replit · Netlify · Cloudflare · Docker · Linux
+✓ IMPORTS
+✓ FILE PATHS
+✓ DEPENDENCIES
+✓ CONFIGURATION
+✓ ENVIRONMENT VARIABLES
+✓ API RESPONSES
+✓ DATABASE CONNECTION
+✓ BUILD OUTPUT
+✓ DEPLOYMENT SETTINGS
 
 ⸻
 
-16 // PRODUCT MINDSET
+11 — ☁️ DEPLOYMENT
+
+┌────────────────────┐
+│ LOCAL DEVELOPMENT  │
+└─────────┬──────────┘
+          ↓
+┌────────────────────┐
+│       GIT          │
+└─────────┬──────────┘
+          ↓
+┌────────────────────┐
+│      GITHUB        │
+└─────────┬──────────┘
+          ↓
+┌────────────────────┐
+│   BUILD / TEST     │
+└─────────┬──────────┘
+          ↓
+┌────────────────────┐
+│      DEPLOY        │
+└─────────┬──────────┘
+          ↓
+┌────────────────────┐
+│    PRODUCTION      │
+└─────────┬──────────┘
+          ↓
+      MONITOR
+          │
+          └────────↺
+
+PLATFORMS & TOOLS
+
+GitHub · Replit · Netlify · Cloudflare · Docker · Linux
+
+⸻
+
+12 — 🧠 LEARNING LOOP
+
+<div align="center">
+DISCOVER
+   ↓
+EXPLORE
+   ↓
+BUILD
+   ↓
+BREAK
+   ↓
+DEBUG
+   ↓
+UNDERSTAND
+   ↓
+IMPROVE
+   │
+   └──────────────↺
+
+BUILD → LEARN → IMPROVE → REPEAT
+
+</div>
+
+⸻
+
+13 — 📱 MOBILE & GAMING
+
+I enjoy exploring mobile applications, iOS experiences, retro gaming, arcade interfaces, and mobile-focused UI design.
+
+INTERESTS
+
+📱 iOS
+🎮 Arcade Games
+🕹️ Retro Games
+🎨 Mobile UI
+⚡ Performance
+🔒 Privacy
+🌐 Networking
+🧩 App Architecture
+
+⸻
+
+14 — 🧩 PRODUCT THINKING
 
 I don’t want to stop at:
 
-“The code works.”
+"The code works."
 
-The bigger question is:
+I also want to ask:
 
-“Does the product actually feel complete?”
-
-That means thinking about:
-
-USER EXPERIENCE
-PERFORMANCE
-ACCESSIBILITY
-ERROR STATES
-LOADING STATES
-RESPONSIVENESS
-SECURITY
-MAINTAINABILITY
-SCALABILITY
-VISUAL CONSISTENCY
+Does the interface make sense?
+Is the experience smooth?
+What happens when something fails?
+Is the application responsive?
+Can the architecture grow?
+Is the system maintainable?
+Does the product feel complete?
 
 ⸻
 
-17 // BUILDING PROCESS
+15 — 🏗️ BUILD PROCESS
 
-01  IDEA
+01 ── IDEA
  ↓
-02  RESEARCH
+02 ── RESEARCH
  ↓
-03  ARCHITECTURE
+03 ── ARCHITECTURE
  ↓
-04  UI DESIGN
+04 ── UI DESIGN
  ↓
-05  DEVELOPMENT
+05 ── DEVELOPMENT
  ↓
-06  TESTING
+06 ── TESTING
  ↓
-07  DEBUGGING
+07 ── DEBUGGING
  ↓
-08  DEPLOYMENT
+08 ── DEPLOYMENT
  ↓
-09  FEEDBACK
+09 ── FEEDBACK
  ↓
-10  ITERATION
-
-THE LOOP NEVER STOPS
-
-BUILD → LEARN → IMPROVE → REBUILD
-                    ↑
-                    └────────────
+10 ── ITERATION
 
 ⸻
 
-18 // CURRENT FOCUS
-
-┌─────────────────────────────────────────────┐
-│              CURRENT FOCUS                  │
-├─────────────────────────────────────────────┤
-│                                             │
-│  ████████████████████  Full-Stack Web      │
-│  ██████████████████░░  UI / UX             │
-│  ████████████████░░░░  Backend             │
-│  ███████████████░░░░░  APIs                │
-│  ██████████████░░░░░░  Databases           │
-│  █████████████░░░░░░░  Cybersecurity       │
-│  ████████████░░░░░░░░  OSINT               │
-│  ██████████░░░░░░░░░░  Mobile              │
-│  █████████░░░░░░░░░░░  Cloud               │
-│  ████████░░░░░░░░░░░░  AI                  │
-│                                             │
-└─────────────────────────────────────────────┘
-
-⸻
-
-19 // LEARNING SYSTEM
-
-┌────────────┐
-│  DISCOVER  │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│  EXPLORE   │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│   BUILD    │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│   BREAK    │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│   DEBUG    │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│  UNDERSTAND│
-└─────┬──────┘
-      ↓
-┌────────────┐
-│  IMPROVE   │
-└─────┬──────┘
-      │
-      └───────────────↺
-
-⸻
-
-20 // 2026 MISSION
+16 — 🎯 CURRENT MISSION
 
 BUILD
 
-* [x]	Build real-world projects
-* [x]	Experiment with modern web technologies
-* [x]	Explore professional UI systems
-* [x]	Work with GitHub-based workflows
+* [x]	Real-world projects
+* [x]	Modern web interfaces
+* [x]	GitHub workflows
+* [x]	Deployment experiments
 
 LEARN
 
 * [ ]	Advanced backend architecture
-* [ ]	Advanced database design
-* [ ]	Better API architecture
+* [ ]	Database engineering
+* [ ]	API architecture
 * [ ]	Cloud infrastructure
 * [ ]	Security engineering
 * [ ]	Mobile development
-* [ ]	AI-powered applications
+* [ ]	AI integration
 
 CREATE
 
-* [ ]	More complete products
+* [ ]	Larger full-stack products
+* [ ]	Better developer tools
 * [ ]	More polished interfaces
-* [ ]	More useful developer tools
-* [ ]	More ambitious full-stack systems
+* [ ]	More ambitious systems
 
 ⸻
 
-21 // BEYOND CODE
+17 — 📊 DEVELOPMENT DASHBOARD
 
-Technology is not only about syntax.
-
-It is also about:
-
-CURIOSITY
-CREATIVITY
-PROBLEM SOLVING
-RESEARCH
-PERSISTENCE
-DESIGN
-COMMUNICATION
-EXPERIMENTATION
-
-Every difficult problem is another opportunity to understand something more deeply.
+╔════════════════════════════════════════════════════╗
+║              ROBIUL // BUILD STATUS                ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  WEB DEVELOPMENT     ████████████████████  ACTIVE ║
+║  UI / UX             ██████████████████░░  ACTIVE ║
+║  BACKEND             ████████████████░░░░  ACTIVE ║
+║  API SYSTEMS         ███████████████░░░░░  ACTIVE ║
+║  DATABASES           ██████████████░░░░░░  ACTIVE ║
+║  CYBERSECURITY       █████████████░░░░░░░  ACTIVE ║
+║  OSINT               ████████████░░░░░░░░  ACTIVE ║
+║  MOBILE              ██████████░░░░░░░░░░  ACTIVE ║
+║  CLOUD               █████████░░░░░░░░░░░  ACTIVE ║
+║  AI                  ████████░░░░░░░░░░░░  ACTIVE ║
+║                                                    ║
+║  SYSTEM STATUS      :: ONLINE                     ║
+║  LEARNING STATUS    :: CONTINUOUS                 ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 
 ⸻
 
-22 // DEVELOPER PHILOSOPHY
+18 — 📈 GITHUB ACTIVITY
 
 <div align="center">
-
-⚡ BUILD SOMETHING.
-
-🧠 UNDERSTAND IT.
-
-🔧 BREAK IT.
-
-🚀 IMPROVE IT.
-
-🔁 REPEAT.
-
+<img src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF" width="40%"/>
 </div>
 
 ⸻
 
-23 // GITHUB ANALYTICS
+19 — 🔥 CONTRIBUTION STREAK
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" width="40%"/>
+<img src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" width="82%"/>
 </div>
 
 ⸻
 
-24 // CONTRIBUTION STREAK
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="80%"/>
-</div>
-
-⸻
-
-25 // CONTRIBUTION SNAKE
+20 — 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/HACKERBOYDEVILYT/HACKERBOYDEVILYT/output/github-contribution-grid-snake.svg" width="100%"/>
@@ -680,47 +686,134 @@ Every difficult problem is another opportunity to understand something more deep
 
 ⸻
 
-26 // DEVELOPER STATUS
+21 — 🧭 ROADMAP
 
-┌──────────────────────────────────────────────────┐
-│              ROBIUL // SYSTEM STATUS             │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  IDENTITY       : DEVELOPER                     │
-│  MODE           : BUILDING                      │
-│  LEARNING       : ACTIVE                        │
-│  CURIOSITY      : UNLIMITED                     │
-│  PROJECTS       : IN PROGRESS                   │
-│  EXPERIMENTS    : RUNNING                       │
-│  DEBUGGING      : ENABLED                       │
-│  IMPROVEMENT    : CONTINUOUS                    │
-│                                                  │
-│  SYSTEM         : ONLINE                        │
-│                                                  │
-└──────────────────────────────────────────────────┘
+                         ROBIUL ROADMAP
+2026
+ │
+ ├── ████████████████  Full-Stack Development
+ │
+ ├── ███████████████   Professional UI/UX
+ │
+ ├── ██████████████    Backend Engineering
+ │
+ ├── █████████████     Cybersecurity
+ │
+ ├── ████████████      OSINT
+ │
+ ├── ███████████       Cloud
+ │
+ ├── ██████████        Mobile
+ │
+ └── █████████         AI
 
 ⸻
 
-27 // FINAL TRANSMISSION
+22 — 💡 FUN FACTS
+
+> Loves dark interfaces
+> Enjoys cyber-style dashboards
+> Likes building projects from scratch
+> Enjoys debugging difficult problems
+> Interested in how systems work
+> Likes experimenting with new technologies
+> Enjoys gaming projects
+> Interested in modern web architecture
+> Learns through real projects
+> Always thinking about the next build
+
+⸻
+
+23 — 🌌 BEYOND CODE
+
+Technology is not only syntax.
+
+It is also:
+
+CURIOSITY
+CREATIVITY
+RESEARCH
+DESIGN
+PROBLEM SOLVING
+PERSISTENCE
+EXPERIMENTATION
+COMMUNICATION
+
+Every project creates another opportunity to learn something new.
+
+⸻
+
+24 — 🧠 PHILOSOPHY
 
 <div align="center">
 
-“The project may start as an idea, but the goal is always to turn it into something real.”
+BUILD SOMETHING.
 
-<br>
-ROBIUL
-FULL-STACK DEVELOPER
-CYBERSECURITY EXPLORER
-OSINT BUILDER
-UI/UX ENTHUSIAST
-GAMING & MOBILE EXPLORER
-<br>
+UNDERSTAND IT.
 
-BUILD • LEARN • EXPLORE • CREATE • EVOLVE
+BREAK IT.
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:050816,50:0B1F3A,100:00E5FF&section=footer&animation=twinkling" width="100%"/>
+FIX IT.
+
+MAKE IT BETTER.
+
+REPEAT.
+
 </div>
-<!-- ========================================================= -->
-<!--              ROBIUL // PROFILE README                     -->
-<!-- ========================================================= -->
+
+⸻
+
+25 — 📡 SYSTEM STATUS
+
+┌──────────────────────────────────────────────┐
+│              ROBIUL // STATUS                │
+├──────────────────────────────────────────────┤
+│                                              │
+│  IDENTITY       :: DEVELOPER                 │
+│  MODE           :: BUILDING                  │
+│  LEARNING       :: ACTIVE                    │
+│  CURIOSITY      :: UNLIMITED                 │
+│  EXPERIMENTS    :: RUNNING                   │
+│  PROJECTS       :: EVOLVING                  │
+│  DEBUGGING      :: ENABLED                   │
+│  IMPROVEMENT    :: CONTINUOUS                │
+│                                              │
+│  SYSTEM         :: ONLINE                    │
+│                                              │
+└──────────────────────────────────────────────┘
+
+⸻
+
+26 — 🌐 CONNECT
+
+<div align="center">
+
+LET’S BUILD SOMETHING GREAT. 🚀
+
+<br>
+<img src="https://img.shields.io/badge/GitHub-HACKERBOYDEVILYT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Code-Build-Let's%20Go-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mindset-Always%20Learning-7C3AED?style=for-the-badge"/>
+</div>
+
+⸻
+
+<div align="center">
+
+⚡ ROBIUL
+
+FULL-STACK DEVELOPER · BUILDER · EXPLORER
+
+BUILD  •  LEARN  •  EXPLORE  •  CREATE  •  EVOLVE
+<br>
+
+“The idea is only the beginning. The real work is turning it into something real.”
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,45:0B1120,75:0E7490,100:06B6D4&section=footer&animation=twinkling" width="100%"/>
+</div>
+<!--
+==============================================================
+                 ROBIUL // GITHUB PROFILE
+==============================================================
+-->
