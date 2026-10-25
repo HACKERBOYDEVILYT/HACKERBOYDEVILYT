@@ -1,381 +1,319 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Xylon-404&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=Xylon-404&theme=github-dark" alt="Xylon-404 hero section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Xylon-404&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=Xylon-404&theme=github-dark" alt="Xylon-404 about section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Xylon-404&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Xylon-404&theme=github-dark" alt="Xylon-404 stack section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Xylon-404&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=Xylon-404&theme=github-dark" alt="Xylon-404 stats section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Xylon-404&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=Xylon-404&theme=github-dark" alt="Xylon-404 projects section" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Xylon-404&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=Xylon-404&theme=github-dark" alt="Xylon-404 social section" />
-  </picture>
-</p>
-
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
-
-<!-- NEW HOW THIS WORK BRO🖕🖕🖕-->
-<p align="center">
-  <a href="https://vip-page.netlify.app/">
-    <img src="/FUCK.png" alt="CODE-X"/></a>
-<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
- <table border="0">
- <tr>
-    <td>
-      <br>
-     <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%D9%84%D8%A7+%D8%A5%D9%84%D9%87+%D8%A5%D9%84%D8%A7+%D8%A7%D9%84%D9%84%D9%87+%D9%85%D8%AD%D9%85%D8%AF+%D8%B1%D8%B3%D9%88%D9%84+%D8%A7%D9%84%D9%84%D9%87;>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=xylon-404&label=🖕Profile%20Visitor🖕&color=071A2C&style=for-the-badge" alt="xylon-404"/>
-      <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=xylon-404&data=followers,repositories,stars,commits&theme=viridescent"/>
-    <td>
-      <img alt="ABDULLHA" src="/scary-gif-1.gif">
-   </td>  
- </tr>  
-</table>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Hallow+I+Am+Abdullha+💛;It's+A+Brand+Bro💚;Thank+You+Everyone+😉)](https://git.io/typing-svg)
-  
-  </p>
-
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3> 
-
-```diff
-- ꗝؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖꕥ ꓧٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜꓥٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜꓚٜٜٜٜٜٜٜٜٜٜٜٜꓗٜٜٜٜٜٜٜٜꓰٜٜٜٜꓣٜ ꕥؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖꗝ:
-+ ꕥ̈̈̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̊̇ꔷ̸̲̅ꔷ̸̲̲̅̅ꔷ̸̲̲̲̅̅̅ꔷ̸̲̲̲̅̅̅̅ꔷ̸̲̲̲̲̲̅̅̅̅̅ꔷ̸̲̲̲̲̅̅̅̅ꔷ̸̲̲̲̅̅̅ꔷ̸̲̲̅̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̲̅̅ꔷ̸̲̲̲̅̅̅ꔷ̸̲̲̲̅̅̅̅ꔷ̸̲̲̲̲̲̅̅̅̅̅ꔷ̸̲̲̲̲̅̅̅̅ꔷ̸̲̲̲̅̅̅ꔷ̸̲̲̅̅ꔷ̸̲̅ꕥ̈̈̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̊̇̇:
-    ...
+```{=html}
+<!--
+HACKERBOYDEVILYT | ULTIMATE CYBERPUNK PROFILE
+Replace the README.md in HACKERBOYDEVILYT/HACKERBOYDEVILYT with this file.
+-->
 ```
 
- :trollface: 𝓦𝓔𝓛𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓡𝓞𝓕𝓘𝓛𝓔 :trollface:
+::: \{align=“center”\}
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,25:160000,55:700000,80:FF003C,100:000000&text=HACKERBOYDEVILYT&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20WELCOME%20TO%20THE%20DARK%20SIDE&descSize=14&descAlignY=58&animation=fadeIn" alt="Cyberpunk profile banner"/>`\{=html\}
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=600&color=FF003C&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+INITIALIZED+%5D;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+CODE.+CREATE.+INNOVATE.;%3E+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;%3E+LEARN.+BUILD.+REPEAT.;%5B+ACCESS+GRANTED+%5D" alt="Animated terminal introduction"/>`\{=html\}
 
-- :trollface: 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 ➩ 𝐀𝐁𝐃𝐔𝐋𝐋𝐇𝐀
+`<br/>`\{=html\}
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+`<img src="https://img.shields.io/badge/USER-HACKERBOYDEVILYT-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username"/>`\{=html\}
+`<img src="https://img.shields.io/badge/ENVIRONMENT-CYBERSPACE-111111?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Cyber environment"/>`\{=html\}
+`<img src="https://img.shields.io/badge/MODE-LEARN%20%7C%20BUILD-00FF41?style=for-the-badge&logoColor=black" alt="Mode"/>`\{=html\}
+`<img src="https://img.shields.io/badge/ORIGIN-BANGLADESH-006A4E?style=for-the-badge" alt="Bangladesh"/>`\{=html\}
 
-- :trollface: 𝙻𝙸𝚅𝙴 𝙸𝙽 ➩ 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇
+`<br/>`\{=html\}`<br/>`\{=html\}
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-- :trollface: 𝙲𝙻𝙰𝚂𝚂 ➩ 11
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-- :trollface: 𝚁𝙴𝙻𝙰𝚃𝙸𝙾𝙽 ➩ 𝗕𝗢𝗥𝗡 𝗧𝗢 𝗦𝗜𝗡𝗚𝗟𝗘
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
- <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
-
-
-
-
-```go
-import "fmt"
-
-type Person struct {
-  name string
-  username string
-  age int
-  hobbies []string
-  job string
-}
-
-func main() {
-  var me = new(Person)
-  
-  me.name     = "ABDULLHA"
-  me.username = "XYLON"
-  me.age      = "17"
-  me.job      = "Programer"
-  me.hobbies  = []string{"code", "music"," gaming"}
-  
-  fmt.Println(me)
-}
-```
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
-
-<p align="center">
-    <a href="https://github.com/Xylon-404">
-          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
-    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
-  </a>
-</p>
-
-<br>
-<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
-
-
-> Tools and technologies that I have worked with and I'm interested in
-
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
- 
- 
- 
- 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub States
-
-
-<p align="center">
-<a href="https://github.com/Xylon-404">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xylon-404&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xylon-404&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
-  </a>
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Contribution Snake -->
-<p align="center"><img src="https://github.com/Xylon-404/Xylon-404/blob/main/Abdullah_404.svg"></p>
-
-<!-- Footer -->
-<img src="Footer.jpg">
-
-<!-- =============== CYBERPUNK DEVELOPER SECTION =============== -->
-
-<h2 align="center">⚡ DEVELOPER DASHBOARD ⚡</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE;CODE+%7C+CREATE+%7C+INNOVATE;BANGLADESHI+DEVELOPER;WELCOME+TO+MY+DIGITAL+WORLD" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PROFILE-Xylon--404-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/COUNTRY-Bangladesh-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-9D4EDD?style=for-the-badge" />
-</p>
+`<img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=for-the-badge&color=FF003C&label=PROFILE+VISITS" alt="Profile visitor counter"/>`\{=html\}
+:::
 
 ---
 
-## 🧠 About My Journey
+::: \{align=“center”\}
 
-- 💻 Passionate about programming and technology.
-- 🚀 Building projects and exploring new ideas.
-- 🛠️ Learning through practical development.
-- 🎯 Focused on improving my coding skills.
-- 🌏 Representing Bangladesh in the developer community.
+## `> INITIALIZING SYSTEM...`
 
-## 🛠️ Technology Arsenal
+`<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF003C,50:00FF41,100:7B2FF7" width="100%" alt="Neon divider"/>`\{=html\}
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,java,cpp,cs,git,github,linux,docker,postgres,supabase&perline=8" alt="Technology Stack" />
-</p>
+```text
+╔════════════════════════════════════════════════════╗
+║                 SYSTEM INFORMATION                ║
+╠════════════════════════════════════════════════════╣
+║ USER       : HACKERBOYDEVILYT                      ║
+║ ENVIRONMENT: DIGITAL WORLD                         ║
+║ INTEREST   : CODE / TECH / DEVELOPMENT             ║
+║ MODE       : LEARNING & BUILDING                   ║
+║ OBJECTIVE  : CREATE SOMETHING EXTRAORDINARY        ║
+╚════════════════════════════════════════════════════╝
+```
 
-## 📊 GitHub Analytics
+:::
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xylon-404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylon-404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+## 🔴 `01 // WHO AM I?`
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Xylon-404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+```bash
+┌──(HACKERBOYDEVILYT㉿github)-[~]
+└─$ cat about_me.txt
+```
 
-## 🏆 GitHub Achievements
+Hey\! Welcome to my digital space\. I’m a technology enthusiast who enjoys
+exploring programming, developing projects, experimenting with new
+ideas, and learning how technology works\.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xylon-404&theme=discord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+- 💻 Interested in programming and software development\.
+- 🚀 Building projects and experimenting with new ideas\.
+- 🧠 Learning new tools, frameworks, and programming concepts\.
+- 🛠️ Focused on practical development and problem\-solving\.
+- 🌐 Exploring web applications, automation, and modern software\.
+- 🇧🇩 Based in Bangladesh\.
+- 🎯 Mission: learn more, build better, and keep improving\.
 
-## 🚀 Featured Projects
+::: \{align=“center”\}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=Curiosity+is+my+fuel.;Code+is+my+creative+tool.;Every+project+is+a+new+mission." alt="Developer mindset animation"/>`\{=html\}
+:::
 
-<p align="center">
-  <a href="https://github.com/Xylon-404?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories" />
-  </a>
-</p>
+---
 
-> Replace this section with your best projects, descriptions, and live demos.
+## 🟢 `02 // MATRIX TERMINAL`
 
-## 💬 Developer Quote
+::: \{align=“center”\}
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:001100,50:003B00,100:00FF41&text=ENTER%20THE%20MATRIX&fontColor=FFFFFF&fontSize=32&animation=fadeIn" alt="Matrix inspired banner"/>`\{=html\}
+:::
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
-</p>
+```text
+root@digital-world:~$ whoami
+HACKERBOYDEVILYT
 
-## 🤝 Connect With Me
+root@digital-world:~$ echo "Think. Code. Create."
+Think. Code. Create.
 
-<p align="center">
-  <a href="https://github.com/Xylon-404">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+root@digital-world:~$ echo "Access your own potential."
+Access your own potential.
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b><br/>
-  <i>Keep learning. Keep building. Keep innovating.</i>
-</p>
+root@digital-world:~$ _
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:FF1744&height=120&section=footer" width="100%" alt="Footer" />
-</p>
+::: \{align=“center”\}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1300&pause=500&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+BOOTING+UP...+%5D;%5B+LOADING+DEVELOPER+TOOLS...+%5D;%5B+INITIALIZING+CREATIVE+MODE...+%5D;%5B+READY+TO+BUILD+%5D" alt="Terminal loading animation"/>`\{=html\}
+:::
 
-<!-- =============== END DEVELOPER SECTION =============== -->
+---
 
+## ⚔️ `03 // TECH ARSENAL`
+
+::: \{align=“center”\}
+
+### `PROGRAMMING LANGUAGES`
+
+`<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,cpp,bash&theme=dark&perline=8" alt="Programming languages"/>`\{=html\}
+
+### `FRONTEND TECHNOLOGIES`
+
+`<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark&perline=7" alt="Frontend technologies"/>`\{=html\}
+
+### `BACKEND & DATABASE`
+
+`<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,mysql,postgres,supabase,firebase&theme=dark&perline=8" alt="Backend and databases"/>`\{=html\}
+
+### `TOOLS & ENVIRONMENTS`
+
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,cloudflare,vercel&theme=dark&perline=8" alt="Developer tools"/>`\{=html\}
+:::
+
+> Edit this section to keep only the technologies you actually use or
+> are learning.
+
+---
+
+## 🔥 `04 // GITHUB STATISTICS`
+
+::: \{align=“center”\}
+`<a href="https://github.com/HACKERBOYDEVILYT">`\{=html\}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=FF003C&icon_color=00FF41&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>`\{=html\}
+`</a>`\{=html\} `<a href="https://github.com/HACKERBOYDEVILYT">`\{=html\}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=FF003C&text_color=FFFFFF&langs_count=8" alt="Top languages"/>`\{=html\}
+`</a>`\{=html\}
+
+`<br/>`\{=html\}`<br/>`\{=html\}
+
+`<img width="80%" src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&theme=radical&hide_border=true&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=00FF41" alt="Contribution streak"/>`\{=html\}
+:::
+
+---
+
+## 📡 `05 // CONTRIBUTION NETWORK`
+
+::: \{align=“center”\}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=HACKERBOYDEVILYT&bg_color=050505&color=00FF41&line=FF003C&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20NETWORK" width="100%" alt="GitHub contribution graph"/>`\{=html\}
+:::
+
+---
+
+## 🏆 `06 // ACHIEVEMENT VAULT`
+
+::: \{align=“center”\}
+`<img src="https://github-profile-trophy.vercel.app/?username=HACKERBOYDEVILYT&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" width="100%" alt="GitHub trophies"/>`\{=html\}
+:::
+
+---
+
+## 🕶️ `07 // CYBERSECURITY INTERESTS`
+
+::: \{align=“center”\}
+`<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:050505,50:260000,100:050505&text=SECURITY%20%7C%20PRIVACY%20%7C%20DEFENSE&fontSize=23&fontColor=FF003C" width="100%" alt="Cybersecurity banner"/>`\{=html\}
+:::
+
+```text
+[01] SECURITY FUNDAMENTALS
+[02] NETWORKING & PROTOCOLS
+[03] LINUX & COMMAND LINE
+[04] WEB APPLICATION SECURITY
+[05] PRIVACY & DIGITAL SAFETY
+[06] ETHICAL TESTING IN AUTHORIZED LABS
+```
+
+::: \{align=“center”\}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1900&pause=800&color=FF003C&center=true&vCenter=true&width=700&lines=Think+like+an+engineer.;Test+responsibly.;Protect+what+matters.;Security+starts+with+knowledge." alt="Security mindset animation"/>`\{=html\}
+:::
+
+---
+
+## 🚀 `08 // PROJECT HANGAR`
+
+::: \{align=“center”\}
+`<a href="https://github.com/HACKERBOYDEVILYT?tab=repositories">`\{=html\}
+`<img src="https://img.shields.io/badge/OPEN%20PROJECT%20HANGAR-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>`\{=html\}
+`</a>`\{=html\}
+`<a href="https://github.com/HACKERBOYDEVILYT?tab=stars">`\{=html\}
+`<img src="https://img.shields.io/badge/EXPLORE%20STARS-111111?style=for-the-badge&logo=github&logoColor=00FF41" alt="Starred repositories"/>`\{=html\}
+`</a>`\{=html\}
+:::
+
+### `MISSION 001 // FEATURED PROJECT`
+
+**Project:** Replace with a real project name\.
+
+- `TYPE:` Web / Android / API / Tool
+- `PURPOSE:` Describe what it does\.
+- `STACK:` Add the technologies used\.
+- `SOURCE:` [Browse my](https://github.com/HACKERBOYDEVILYT?tab=repositories)
+  [repositories](https://github.com/HACKERBOYDEVILYT?tab=repositories)
+
+### `MISSION 002 // CURRENT EXPERIMENT`
+
+**Project:** Replace with another real project\.
+
+- `OBJECTIVE:` Explain the problem being solved\.
+- `STATUS:` In development / Completed\.
+- `SOURCE:` [Browse my](https://github.com/HACKERBOYDEVILYT?tab=repositories)
+  [repositories](https://github.com/HACKERBOYDEVILYT?tab=repositories)
+
+### `MISSION 003 // NEXT BUILD`
+
+**Project:** Add your next project here\.
+
+- `GOAL:` Build something useful and reliable\.
+- `PLAN:` Develop, test, improve, and document\.
+
+---
+
+## 🧬 `09 // DEVELOPER DNA`
+
+::: \{align=“center”\}
+`<img src="https://img.shields.io/badge/CURIOSITY-UNLIMITED-00FF41?style=for-the-badge" alt="Curiosity"/>`\{=html\}
+`<img src="https://img.shields.io/badge/CREATIVITY-ACTIVE-FF003C?style=for-the-badge" alt="Creativity"/>`\{=html\}
+`<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-7B2FF7?style=for-the-badge" alt="Learning"/>`\{=html\}
+
+CORE MODULE    PURPOSE
+
+---
+
+🧠 Learning    Explore new ideas and technologies
+⚙️ Building    Turn concepts into working projects
+🔍 Debugging   Investigate errors and improve reliability
+🛡️ Security    Develop safer software and systems
+🌐 Community   Learn and collaborate with developers
+:::
+
+---
+
+## 📟 `10 // CURRENT OPERATIONS`
+
+```bash
+$ status --developer
+> Exploring new technologies
+
+$ status --projects
+> Building and improving digital products
+
+$ status --learning
+> Continuously learning
+
+$ status --next
+> Create something extraordinary
+```
+
+::: \{align=“center”\}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2300&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+NO+SHORTCUTS%2C+JUST+PROGRESS.;%3E+EVERY+BUG+IS+A+LESSON.;%3E+EVERY+PROJECT+IS+AN+OPPORTUNITY.;%3E+KEEP+BUILDING." alt="Operations animation"/>`\{=html\}
+:::
+
+---
+
+## 💭 `11 // CODE PHILOSOPHY`
+
+::: \{align=“center”\}
+`<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming quote"/>`\{=html\}
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   THINK DIFFERENTLY.                             ║
+║   BUILD FEARLESSLY.                              ║
+║   LEARN CONSTANTLY.                              ║
+║   CREATE WITH PURPOSE.                           ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+:::
+
+---
+
+## 🌐 `12 // CONNECT TO MY NETWORK`
+
+::: \{align=“center”\}
+`<a href="https://github.com/HACKERBOYDEVILYT">`\{=html\}
+`<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20WORK-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>`\{=html\}
+`</a>`\{=html\}
+`<a href="https://github.com/HACKERBOYDEVILYT?tab=repositories">`\{=html\}
+`<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>`\{=html\}
+`</a>`\{=html\}
+:::
+
+```{=html}
+<!-- Add your actual Telegram, YouTube, website, and email links here. -->
+```
+
+---
+
+## 👁️ `13 // VISITOR MONITOR`
+
+::: \{align=“center”\}
+`<img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=for-the-badge&color=FF003C&label=VISITORS" alt="Visitor counter"/>`\{=html\}
+:::
+
+---
+
+## ☠️ `14 // SYSTEM SHUTDOWN`
+
+::: \{align=“center”\}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1700&pause=700&color=FF003C&center=true&vCenter=true&width=750&lines=THANKS+FOR+VISITING.;YOU+HAVE+REACHED+THE+END.;SESSION+SAVED...;UNTIL+THE+NEXT+MISSION." alt="Shutdown animation"/>`\{=html\}
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,30:350000,65:FF003C,100:000000&animation=fadeIn" width="100%" alt="Cyberpunk closing banner"/>`\{=html\}
+
+### `HACKERBOYDEVILYT`
+
+**CODE • CREATE • INNOVATE • REPEAT**
+
+`<sub>`\{=html\}Built with curiosity, creativity, and a passion for
+technology\.`</sub>`\{=html\}
+:::
+
+```{=html}
+<!-- END OF HACKERBOYDEVILYT CYBERPUNK PROFILE README -->
+```
