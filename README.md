@@ -296,3 +296,86 @@ func main() {
 
 <!-- Footer -->
 <img src="Footer.jpg">
+
+<!-- =============== CYBERPUNK DEVELOPER SECTION =============== -->
+
+<h2 align="center">⚡ DEVELOPER DASHBOARD ⚡</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE;CODE+%7C+CREATE+%7C+INNOVATE;BANGLADESHI+DEVELOPER;WELCOME+TO+MY+DIGITAL+WORLD" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-Xylon--404-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/COUNTRY-Bangladesh-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-9D4EDD?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About My Journey
+
+- 💻 Passionate about programming and technology.
+- 🚀 Building projects and exploring new ideas.
+- 🛠️ Learning through practical development.
+- 🎯 Focused on improving my coding skills.
+- 🌏 Representing Bangladesh in the developer community.
+
+## 🛠️ Technology Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,java,cpp,cs,git,github,linux,docker,postgres,supabase&perline=8" alt="Technology Stack" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xylon-404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylon-404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Xylon-404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Xylon-404&theme=discord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Xylon-404?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories" />
+  </a>
+</p>
+
+> Replace this section with your best projects, descriptions, and live demos.
+
+## 💬 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Xylon-404">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b><br/>
+  <i>Keep learning. Keep building. Keep innovating.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:FF1744&height=120&section=footer" width="100%" alt="Footer" />
+</p>
+
+<!-- =============== END DEVELOPER SECTION =============== -->
+
