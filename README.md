@@ -1,319 +1,256 @@
-```{=html}
-<!--
-HACKERBOYDEVILYT | ULTIMATE CYBERPUNK PROFILE
-Replace the README.md in HACKERBOYDEVILYT/HACKERBOYDEVILYT with this file.
--->
-```
+<div align="center">
 
-::: \{align=“center”\}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,25:160000,55:700000,80:FF003C,100:000000&text=HACKERBOYDEVILYT&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20WELCOME%20TO%20THE%20DARK%20SIDE&descSize=14&descAlignY=58&animation=fadeIn" alt="Cyberpunk profile banner"/>`\{=html\}
+<img src="./assets/cyberpunk-banner.svg" width="100%" alt="HACKERBOYDEVILYT cyberpunk banner"/>
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=600&color=FF003C&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+INITIALIZED+%5D;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+CODE.+CREATE.+INNOVATE.;%3E+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;%3E+LEARN.+BUILD.+REPEAT.;%5B+ACCESS+GRANTED+%5D" alt="Animated terminal introduction"/>`\{=html\}
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=1800&pause=650&color=FF1744&center=true&vCenter=true&width=760&lines=%3E+SYSTEM+INITIALIZED;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+CODE.+CREATE.+INNOVATE.;%3E+ALWAYS+LEARNING%2C+ALWAYS+BUILDING." alt="Animated typing terminal"/>
 
-`<br/>`\{=html\}
+<img src="https://img.shields.io/badge/USER-HACKERBOYDEVILYT-ff1744?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00c853?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-111111?style=for-the-badge" alt="Location"/>
 
-`<img src="https://img.shields.io/badge/USER-HACKERBOYDEVILYT-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub username"/>`\{=html\}
-`<img src="https://img.shields.io/badge/ENVIRONMENT-CYBERSPACE-111111?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Cyber environment"/>`\{=html\}
-`<img src="https://img.shields.io/badge/MODE-LEARN%20%7C%20BUILD-00FF41?style=for-the-badge&logoColor=black" alt="Mode"/>`\{=html\}
-`<img src="https://img.shields.io/badge/ORIGIN-BANGLADESH-006A4E?style=for-the-badge" alt="Bangladesh"/>`\{=html\}
+<br/><br/>
 
-`<br/>`\{=html\}`<br/>`\{=html\}
+<a href="https://github.com/HACKERBOYDEVILYT"><img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=for-the-badge&color=ff1744&label=PROFILE+VISITS" alt="Profile visits"/></a>
 
-`<img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=for-the-badge&color=FF003C&label=PROFILE+VISITS" alt="Profile visitor counter"/>`\{=html\}
-:::
+</div>
 
 ---
 
-::: \{align=“center”\}
-
-## `> INITIALIZING SYSTEM...`
-
-`<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF003C,50:00FF41,100:7B2FF7" width="100%" alt="Neon divider"/>`\{=html\}
+## `01 // SYSTEM PROFILE`
 
 ```text
-╔════════════════════════════════════════════════════╗
-║                 SYSTEM INFORMATION                ║
-╠════════════════════════════════════════════════════╣
-║ USER       : HACKERBOYDEVILYT                      ║
-║ ENVIRONMENT: DIGITAL WORLD                         ║
-║ INTEREST   : CODE / TECH / DEVELOPMENT             ║
-║ MODE       : LEARNING & BUILDING                   ║
-║ OBJECTIVE  : CREATE SOMETHING EXTRAORDINARY        ║
-╚════════════════════════════════════════════════════╝
-```
-
-:::
-
-## 🔴 `01 // WHO AM I?`
-
-```bash
 ┌──(HACKERBOYDEVILYT㉿github)-[~]
-└─$ cat about_me.txt
+└─$ whoami
+
+> Tech enthusiast
+> Developer in progress
+> Curious mind | Creative builder
+> Bangladesh 🇧🇩
 ```
 
-Hey\! Welcome to my digital space\. I’m a technology enthusiast who enjoys
-exploring programming, developing projects, experimenting with new
-ideas, and learning how technology works\.
+- 💻 Interested in software, web development, automation, and technology.
+- 🧠 Learning by experimenting and building practical projects.
+- 🛠️ Improving code quality, debugging, and problem-solving skills.
+- 🚀 Goal: create useful, reliable, and creative digital products.
 
-- 💻 Interested in programming and software development\.
-- 🚀 Building projects and experimenting with new ideas\.
-- 🧠 Learning new tools, frameworks, and programming concepts\.
-- 🛠️ Focused on practical development and problem\-solving\.
-- 🌐 Exploring web applications, automation, and modern software\.
-- 🇧🇩 Based in Bangladesh\.
-- 🎯 Mission: learn more, build better, and keep improving\.
-
-::: \{align=“center”\}
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=Curiosity+is+my+fuel.;Code+is+my+creative+tool.;Every+project+is+a+new+mission." alt="Developer mindset animation"/>`\{=html\}
-:::
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=700&color=00FF9C&center=true&vCenter=true&width=650&lines=Curiosity+is+the+first+tool.;Every+bug+teaches+something.;Build.+Test.+Improve.+Repeat." alt="Developer mindset"/>
+</div>
 
 ---
 
-## 🟢 `02 // MATRIX TERMINAL`
+## `02 // MATRIX TERMINAL`
 
-::: \{align=“center”\}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:001100,50:003B00,100:00FF41&text=ENTER%20THE%20MATRIX&fontColor=FFFFFF&fontSize=32&animation=fadeIn" alt="Matrix inspired banner"/>`\{=html\}
-:::
+<div align="center">
 
-```text
-root@digital-world:~$ whoami
-HACKERBOYDEVILYT
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff1744,50:7c3aed,100:00ff9c" width="100%" alt="Neon divider"/>
 
-root@digital-world:~$ echo "Think. Code. Create."
-Think. Code. Create.
-
-root@digital-world:~$ echo "Access your own potential."
-Access your own potential.
-
-root@digital-world:~$ _
-```
-
-::: \{align=“center”\}
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1300&pause=500&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+BOOTING+UP...+%5D;%5B+LOADING+DEVELOPER+TOOLS...+%5D;%5B+INITIALIZING+CREATIVE+MODE...+%5D;%5B+READY+TO+BUILD+%5D" alt="Terminal loading animation"/>`\{=html\}
-:::
-
----
-
-## ⚔️ `03 // TECH ARSENAL`
-
-::: \{align=“center”\}
-
-### `PROGRAMMING LANGUAGES`
-
-`<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,cpp,bash&theme=dark&perline=8" alt="Programming languages"/>`\{=html\}
-
-### `FRONTEND TECHNOLOGIES`
-
-`<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark&perline=7" alt="Frontend technologies"/>`\{=html\}
-
-### `BACKEND & DATABASE`
-
-`<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,mysql,postgres,supabase,firebase&theme=dark&perline=8" alt="Backend and databases"/>`\{=html\}
-
-### `TOOLS & ENVIRONMENTS`
-
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,cloudflare,vercel&theme=dark&perline=8" alt="Developer tools"/>`\{=html\}
-:::
-
-> Edit this section to keep only the technologies you actually use or
-> are learning.
-
----
-
-## 🔥 `04 // GITHUB STATISTICS`
-
-::: \{align=“center”\}
-`<a href="https://github.com/HACKERBOYDEVILYT">`\{=html\}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=FF003C&icon_color=00FF41&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>`\{=html\}
-`</a>`\{=html\} `<a href="https://github.com/HACKERBOYDEVILYT">`\{=html\}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=FF003C&text_color=FFFFFF&langs_count=8" alt="Top languages"/>`\{=html\}
-`</a>`\{=html\}
-
-`<br/>`\{=html\}`<br/>`\{=html\}
-
-`<img width="80%" src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&theme=radical&hide_border=true&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=00FF41" alt="Contribution streak"/>`\{=html\}
-:::
-
----
-
-## 📡 `05 // CONTRIBUTION NETWORK`
-
-::: \{align=“center”\}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=HACKERBOYDEVILYT&bg_color=050505&color=00FF41&line=FF003C&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20NETWORK" width="100%" alt="GitHub contribution graph"/>`\{=html\}
-:::
-
----
-
-## 🏆 `06 // ACHIEVEMENT VAULT`
-
-::: \{align=“center”\}
-`<img src="https://github-profile-trophy.vercel.app/?username=HACKERBOYDEVILYT&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" width="100%" alt="GitHub trophies"/>`\{=html\}
-:::
-
----
-
-## 🕶️ `07 // CYBERSECURITY INTERESTS`
-
-::: \{align=“center”\}
-`<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:050505,50:260000,100:050505&text=SECURITY%20%7C%20PRIVACY%20%7C%20DEFENSE&fontSize=23&fontColor=FF003C" width="100%" alt="Cybersecurity banner"/>`\{=html\}
-:::
-
-```text
-[01] SECURITY FUNDAMENTALS
-[02] NETWORKING & PROTOCOLS
-[03] LINUX & COMMAND LINE
-[04] WEB APPLICATION SECURITY
-[05] PRIVACY & DIGITAL SAFETY
-[06] ETHICAL TESTING IN AUTHORIZED LABS
-```
-
-::: \{align=“center”\}
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1900&pause=800&color=FF003C&center=true&vCenter=true&width=700&lines=Think+like+an+engineer.;Test+responsibly.;Protect+what+matters.;Security+starts+with+knowledge." alt="Security mindset animation"/>`\{=html\}
-:::
-
----
-
-## 🚀 `08 // PROJECT HANGAR`
-
-::: \{align=“center”\}
-`<a href="https://github.com/HACKERBOYDEVILYT?tab=repositories">`\{=html\}
-`<img src="https://img.shields.io/badge/OPEN%20PROJECT%20HANGAR-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>`\{=html\}
-`</a>`\{=html\}
-`<a href="https://github.com/HACKERBOYDEVILYT?tab=stars">`\{=html\}
-`<img src="https://img.shields.io/badge/EXPLORE%20STARS-111111?style=for-the-badge&logo=github&logoColor=00FF41" alt="Starred repositories"/>`\{=html\}
-`</a>`\{=html\}
-:::
-
-### `MISSION 001 // FEATURED PROJECT`
-
-**Project:** Replace with a real project name\.
-
-- `TYPE:` Web / Android / API / Tool
-- `PURPOSE:` Describe what it does\.
-- `STACK:` Add the technologies used\.
-- `SOURCE:` [Browse my](https://github.com/HACKERBOYDEVILYT?tab=repositories)
-  [repositories](https://github.com/HACKERBOYDEVILYT?tab=repositories)
-
-### `MISSION 002 // CURRENT EXPERIMENT`
-
-**Project:** Replace with another real project\.
-
-- `OBJECTIVE:` Explain the problem being solved\.
-- `STATUS:` In development / Completed\.
-- `SOURCE:` [Browse my](https://github.com/HACKERBOYDEVILYT?tab=repositories)
-  [repositories](https://github.com/HACKERBOYDEVILYT?tab=repositories)
-
-### `MISSION 003 // NEXT BUILD`
-
-**Project:** Add your next project here\.
-
-- `GOAL:` Build something useful and reliable\.
-- `PLAN:` Develop, test, improve, and document\.
-
----
-
-## 🧬 `09 // DEVELOPER DNA`
-
-::: \{align=“center”\}
-`<img src="https://img.shields.io/badge/CURIOSITY-UNLIMITED-00FF41?style=for-the-badge" alt="Curiosity"/>`\{=html\}
-`<img src="https://img.shields.io/badge/CREATIVITY-ACTIVE-FF003C?style=for-the-badge" alt="Creativity"/>`\{=html\}
-`<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-7B2FF7?style=for-the-badge" alt="Learning"/>`\{=html\}
-
-CORE MODULE    PURPOSE
-
----
-
-🧠 Learning    Explore new ideas and technologies
-⚙️ Building    Turn concepts into working projects
-🔍 Debugging   Investigate errors and improve reliability
-🛡️ Security    Develop safer software and systems
-🌐 Community   Learn and collaborate with developers
-:::
-
----
-
-## 📟 `10 // CURRENT OPERATIONS`
+</div>
 
 ```bash
-$ status --developer
-> Exploring new technologies
-
-$ status --projects
-> Building and improving digital products
-
-$ status --learning
-> Continuously learning
-
-$ status --next
-> Create something extraordinary
+root@cyberspace:~$ ./initialize.sh
+[ OK ] Loading creative mode
+[ OK ] Connecting to the developer community
+[ OK ] Starting next project
+[ READY ] HACKERBOYDEVILYT
 ```
 
-::: \{align=“center”\}
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2300&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+NO+SHORTCUTS%2C+JUST+PROGRESS.;%3E+EVERY+BUG+IS+A+LESSON.;%3E+EVERY+PROJECT+IS+AN+OPPORTUNITY.;%3E+KEEP+BUILDING." alt="Operations animation"/>`\{=html\}
-:::
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1500&pause=500&color=00FF9C&center=true&vCenter=true&width=720&lines=%5B+BOOT+SEQUENCE+COMPLETE+%5D;%5B+DEVELOPER+MODE+ACTIVE+%5D;%5B+READY+TO+BUILD+%5D" alt="Terminal boot animation"/>
+</div>
 
 ---
 
-## 💭 `11 // CODE PHILOSOPHY`
+## `03 // TECH ARSENAL`
 
-::: \{align=“center”\}
-`<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming quote"/>`\{=html\}
+<div align="center">
+
+**LANGUAGES & WEB**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,cpp,bash&theme=dark&perline=8" alt="Programming language icons"/>
+
+**FRAMEWORKS & PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express&theme=dark&perline=6" alt="Framework icons"/>
+
+**DATABASES & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,git,github,vscode,linux,docker,cloudflare,vercel&theme=dark&perline=8" alt="Tools and database icons"/>
+
+</div>
+
+<sub>Keep only the technologies you genuinely use or are actively learning.</sub>
+
+---
+
+## `04 // GITHUB COMMAND CENTER`
+
+<div align="center">
+
+<a href="https://github.com/HACKERBOYDEVILYT">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&hide_border=true&bg_color=09090b&title_color=ff1744&icon_color=00ff9c&text_color=e4e4e7&theme=radical" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/HACKERBOYDEVILYT">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&hide_border=true&bg_color=09090b&title_color=ff1744&text_color=e4e4e7&theme=radical&langs_count=8" alt="Top languages"/>
+</a>
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&hide_border=true&background=09090b&ring=ff1744&fire=ff1744&currStreakLabel=00ff9c&sideLabels=e4e4e7&dates=999999" alt="Contribution streak"/>
+
+</div>
+
+---
+
+## `05 // CONTRIBUTION NETWORK`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HACKERBOYDEVILYT&bg_color=09090b&color=00ff9c&line=ff1744&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20NETWORK" width="100%" alt="Contribution activity graph"/>
+</div>
+
+---
+
+## `06 // ACHIEVEMENT VAULT`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HACKERBOYDEVILYT&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub trophies"/>
+</div>
+
+---
+
+## `07 // CYBERSECURITY & DEFENSE`
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:080808,50:35000b,100:080808&text=SECURITY%20%2F%20PRIVACY%20%2F%20DEFENSE&fontSize=22&fontColor=ff1744" width="100%" alt="Cybersecurity banner"/>
+</div>
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   THINK DIFFERENTLY.                             ║
-║   BUILD FEARLESSLY.                              ║
-║   LEARN CONSTANTLY.                              ║
-║   CREATE WITH PURPOSE.                           ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+[01] Security fundamentals
+[02] Networking and protocols
+[03] Linux and command line
+[04] Web application security
+[05] Privacy and digital safety
+[06] Authorized ethical testing labs
 ```
 
-:::
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=700&color=FF1744&center=true&vCenter=true&width=700&lines=Learn+the+system.;Test+responsibly.;Build+securely.;Protect+what+matters." alt="Security principles"/>
+</div>
 
 ---
 
-## 🌐 `12 // CONNECT TO MY NETWORK`
+## `08 // PROJECT HANGAR`
 
-::: \{align=“center”\}
-`<a href="https://github.com/HACKERBOYDEVILYT">`\{=html\}
-`<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20WORK-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>`\{=html\}
-`</a>`\{=html\}
-`<a href="https://github.com/HACKERBOYDEVILYT?tab=repositories">`\{=html\}
-`<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>`\{=html\}
-`</a>`\{=html\}
-:::
+<div align="center">
+<a href="https://github.com/HACKERBOYDEVILYT?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20REPOSITORIES-ff1744?style=for-the-badge&logo=github&logoColor=white" alt="Open repositories"/></a>
+<a href="https://github.com/HACKERBOYDEVILYT?tab=stars"><img src="https://img.shields.io/badge/STARRED%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=00ff9c" alt="Starred projects"/></a>
+</div>
 
-```{=html}
-<!-- Add your actual Telegram, YouTube, website, and email links here. -->
-```
+### `MISSION 001 // FEATURED BUILD`
+
+- **Project:** Add a real project name.
+- **Purpose:** Explain what it does and who it helps.
+- **Technology:** List the actual stack.
+- **Code:** [Browse repositories](https://github.com/HACKERBOYDEVILYT?tab=repositories)
+
+### `MISSION 002 // WORK IN PROGRESS`
+
+- **Project:** Add your current project.
+- **Status:** In development / Testing / Completed.
+- **Next step:** Document the next milestone.
+
+### `MISSION 003 // NEXT EXPERIMENT`
+
+Describe the next idea you want to turn into a working project.
 
 ---
 
-## 👁️ `13 // VISITOR MONITOR`
+## `09 // DEVELOPER DNA`
 
-::: \{align=“center”\}
-`<img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=for-the-badge&color=FF003C&label=VISITORS" alt="Visitor counter"/>`\{=html\}
-:::
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARN-DAILY-00ff9c?style=for-the-badge" alt="Learn daily"/>
+<img src="https://img.shields.io/badge/BUILD-PRACTICALLY-ff1744?style=for-the-badge" alt="Build practically"/>
+<img src="https://img.shields.io/badge/IMPROVE-CONTINUOUSLY-7c3aed?style=for-the-badge" alt="Improve continuously"/>
+
+| MODULE | OBJECTIVE |
+|:--|:--|
+| 🧠 Learning | Explore new ideas and technologies |
+| ⚙️ Building | Turn concepts into working projects |
+| 🔍 Debugging | Find root causes and improve reliability |
+| 🛡️ Security | Build and test responsibly |
+| 🌐 Community | Learn, share, and collaborate |
+
+</div>
 
 ---
 
-## ☠️ `14 // SYSTEM SHUTDOWN`
+## `10 // LIVE OPERATIONS`
 
-::: \{align=“center”\}
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1700&pause=700&color=FF003C&center=true&vCenter=true&width=750&lines=THANKS+FOR+VISITING.;YOU+HAVE+REACHED+THE+END.;SESSION+SAVED...;UNTIL+THE+NEXT+MISSION." alt="Shutdown animation"/>`\{=html\}
+```bash
+$ status --learning
+> Always exploring
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,30:350000,65:FF003C,100:000000&animation=fadeIn" width="100%" alt="Cyberpunk closing banner"/>`\{=html\}
+$ status --building
+> Turning ideas into projects
 
-### `HACKERBOYDEVILYT`
+$ status --quality
+> Test, debug, improve
 
-**CODE • CREATE • INNOVATE • REPEAT**
-
-`<sub>`\{=html\}Built with curiosity, creativity, and a passion for
-technology\.`</sub>`\{=html\}
-:::
-
-```{=html}
-<!-- END OF HACKERBOYDEVILYT CYBERPUNK PROFILE README -->
+$ status --mission
+> Create something useful
 ```
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=2100&pause=700&color=00FF9C&center=true&vCenter=true&width=720&lines=%3E+PROGRESS+OVER+PERFECTION.;%3E+EVERY+BUG+IS+A+LESSON.;%3E+KEEP+BUILDING." alt="Live operations"/>
+</div>
+
+---
+
+## `11 // DEVELOPER PHILOSOPHY`
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
+
+```text
+╔════════════════════════════════════════════╗
+║  THINK DIFFERENTLY.                        ║
+║  BUILD WITH PURPOSE.                       ║
+║  LEARN CONSTANTLY.                         ║
+║  IMPROVE EVERY DAY.                        ║
+╚════════════════════════════════════════════╝
+```
+</div>
+
+---
+
+## `12 // CONNECT TO THE NETWORK`
+
+<div align="center">
+
+<a href="https://github.com/HACKERBOYDEVILYT"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+<a href="https://github.com/HACKERBOYDEVILYT?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-ff1744?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+
+</div>
+
+<!-- Add your actual social links when ready. -->
+
+---
+
+## `13 // VISITOR MONITOR`
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&style=for-the-badge&color=ff1744&label=PROFILE+VISITS" alt="Visitor counter"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=1900&pause=700&color=FF1744&center=true&vCenter=true&width=720&lines=SESSION+COMPLETE.;THANKS+FOR+VISITING.;UNTIL+THE+NEXT+MISSION." alt="Closing animation"/>
+
+<img src="./assets/cyberpunk-footer.svg" width="100%" alt="Cyberpunk footer"/>
+
+**HACKERBOYDEVILYT — CODE • CREATE • INNOVATE**
+
+</div>
