@@ -1,522 +1,298 @@
-<div align="center">
-
-👋 Hey, I’m Robiul
-
-Full-Stack Developer · Builder · Explorer
-
-<p>
-  <img src="https://img.shields.io/badge/BUILDING-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/FULL--STACK-06B6D4?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-EC4899?style=for-the-badge&logo=figma&logoColor=white" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Xylon-404&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Xylon-404&theme=github-dark" alt="Xylon-404 hero section" />
+  </picture>
 </p>
-<p>
-  <a href="https://github.com/HACKERBOYDEVILYT">
-    <img src="https://komarev.com/ghpvc/?username=HACKERBOYDEVILYT&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Xylon-404&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Xylon-404&theme=github-dark" alt="Xylon-404 about section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Xylon-404&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Xylon-404&theme=github-dark" alt="Xylon-404 stack section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Xylon-404&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Xylon-404&theme=github-dark" alt="Xylon-404 stats section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Xylon-404&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Xylon-404&theme=github-dark" alt="Xylon-404 projects section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Xylon-404&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Xylon-404&theme=github-dark" alt="Xylon-404 social section" />
+  </picture>
+</p>
+
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
+
+<!-- NEW HOW THIS WORK BRO🖕🖕🖕-->
+<p align="center">
+  <a href="https://vip-page.netlify.app/">
+    <img src="/FUCK.png" alt="CODE-X"/></a>
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ <table border="0">
+ <tr>
+    <td>
+      <br>
+     <p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%D9%84%D8%A7+%D8%A5%D9%84%D9%87+%D8%A5%D9%84%D8%A7+%D8%A7%D9%84%D9%84%D9%87+%D9%85%D8%AD%D9%85%D8%AF+%D8%B1%D8%B3%D9%88%D9%84+%D8%A7%D9%84%D9%84%D9%87;>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=xylon-404&label=🖕Profile%20Visitor🖕&color=071A2C&style=for-the-badge" alt="xylon-404"/>
+      <br>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=xylon-404&data=followers,repositories,stars,commits&theme=viridescent"/>
+    <td>
+      <img alt="ABDULLHA" src="/scary-gif-1.gif">
+   </td>  
+ </tr>  
+</table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Hallow+I+Am+Abdullha+💛;It's+A+Brand+Bro💚;Thank+You+Everyone+😉)](https://git.io/typing-svg)
+  
+  </p>
+
+<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</b></h3> 
+
+```diff
+- ꗝؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖꕥ ꓧٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜꓥٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜꓚٜٜٜٜٜٜٜٜٜٜٜٜꓗٜٜٜٜٜٜٜٜꓰٜٜٜٜꓣٜ ꕥؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖꕹؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖꗝ:
++ ꕥ̈̈̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̊̇ꔷ̸̲̅ꔷ̸̲̲̅̅ꔷ̸̲̲̲̅̅̅ꔷ̸̲̲̲̅̅̅̅ꔷ̸̲̲̲̲̲̅̅̅̅̅ꔷ̸̲̲̲̲̅̅̅̅ꔷ̸̲̲̲̅̅̅ꔷ̸̲̲̅̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̅ꔷ̸̲̲̅̅ꔷ̸̲̲̲̅̅̅ꔷ̸̲̲̲̅̅̅̅ꔷ̸̲̲̲̲̲̅̅̅̅̅ꔷ̸̲̲̲̲̅̅̅̅ꔷ̸̲̲̲̅̅̅ꔷ̸̲̲̅̅ꔷ̸̲̅ꕥ̈̈̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̈̎̊̇̇:
+    ...
+```
+
+ :trollface: 𝓦𝓔𝓛𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓡𝓞𝓕𝓘𝓛𝓔 :trollface:
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+- :trollface: 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 ➩ 𝐀𝐁𝐃𝐔𝐋𝐋𝐇𝐀
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+- :trollface: 𝙻𝙸𝚅𝙴 𝙸𝙽 ➩ 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+- :trollface: 𝙲𝙻𝙰𝚂𝚂 ➩ 11
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+- :trollface: 𝚁𝙴𝙻𝙰𝚃𝙸𝙾𝙽 ➩ 𝗕𝗢𝗥𝗡 𝗧𝗢 𝗦𝗜𝗡𝗚𝗟𝗘
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+ <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</b></h3>
+
+
+
+
+```go
+import "fmt"
+
+type Person struct {
+  name string
+  username string
+  age int
+  hobbies []string
+  job string
+}
+
+func main() {
+  var me = new(Person)
+  
+  me.name     = "ABDULLHA"
+  me.username = "XYLON"
+  me.age      = "17"
+  me.job      = "Programer"
+  me.hobbies  = []string{"code", "music"," gaming"}
+  
+  fmt.Println(me)
+}
+```
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
+
+<p align="center">
+    <a href="https://github.com/Xylon-404">
+          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
-  <img src="https://img.shields.io/github/followers/HACKERBOYDEVILYT?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/HACKERBOYDEVILYT?label=Stars&style=flat-square" />
 </p>
-<p>
-  <i>Turning ideas into polished digital products.</i>
-</p>
-</div>
-
-⸻
-
-🧑‍💻 About Me
-
-I’m Robiul, a developer who enjoys turning ideas into functional, modern, and visually polished products.
-
-I work across frontend development, backend architecture, UI/UX, cybersecurity concepts, OSINT, gaming projects, APIs, and deployment workflows.
-
-I learn best by building.
-
-Idea
- ↓
-Design
- ↓
-Build
- ↓
-Debug
- ↓
-Improve
- ↓
-Ship
-
-I’m especially interested in projects that combine technology + creativity + real-world usability.
-
-⸻
-
-⚡ What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-🌐 Web Applications
-
-Modern interfaces with:
-
-* React
-* Vite
-* JavaScript
-* Responsive UI
-* API integration
-* Component architecture
-
-</td>
-<td width="50%">
-
-🔐 Security & OSINT
-
-Exploring:
-
-* OSINT workflows
-* Security tooling
-* DNS & network concepts
-* Metadata analysis
-* Authentication
-* Secure architecture
-
-</td>
-</tr>
-<tr>
-<td>
-
-🎮 Interactive Products
-
-Building experimental:
-
-* Games
-* Streaming interfaces
-* Interactive dashboards
-* Real-time experiences
-* Mobile-first interfaces
-
-</td>
-<td>
-
-☁️ Deployment
-
-Working with:
-
-* GitHub
-* Replit
-* Netlify
-* Cloudflare
-* APIs
-* Databases
-* Production workflows
-
-</td>
-</tr>
-</table>
-
-⸻
-
-🛠️ Tech Stack
-
-<div align="center">
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-
-Backend & Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,redis" />
-
-Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,replit,netlify,cloudflare,figma,vscode" />
-</div>
-
-⸻
-
-🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🎬 Zosim Anime
-
-Anime discovery and streaming-style platform focused on a modern entertainment experience.
-
-Highlights
-
-* Anime discovery
-* Search & filtering
-* Detailed anime pages
-* Watch interface
-* Continue watching
-* API integration
-* Responsive design
-
-Stack
-
-React Vite JavaScript API
-
-</td>
-<td width="50%" valign="top">
-
-🔐 Professional VPN
-
-A full-stack VPN platform concept designed around a professional product architecture.
-
-Highlights
-
-* Authentication
-* VPN sessions
-* Server regions
-* DNS concepts
-* Telemetry
-* Admin dashboard
-* API architecture
-* Deployment workflow
-
-Stack
-
-React Node.js API Cloud
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-🕷️ VoidSpider
-
-An OSINT/security research platform concept inspired by professional investigation tooling.
-
-Highlights
-
-* Passive OSINT workflows
-* DNS/IP information
-* Metadata
-* Scan history
-* Graph relationships
-* Authentication
-* RBAC
-* Reports
-* Real-time events
-
-Stack
-
-React FastAPI PostgreSQL Redis WebSocket
-
-</td>
-<td valign="top">
-
-🎲 Ludo
-
-A modern multiplayer-style Ludo game project focused on gameplay logic and polished interaction.
-
-Highlights
-
-* Dice system
-* Player movement
-* Turn management
-* Collision logic
-* Win conditions
-* Game state
-* Responsive interface
-
-Stack
-
-React JavaScript Game Logic
-
-</td>
-</tr>
-</table>
-
-⸻
-
-🎨 UI / UX Philosophy
-
-I don’t want an application to simply work.
-
-I want it to feel finished.
-
-My design priorities
-
-Principle	Focus
-🎯 Clarity	Users should understand the interface quickly
-✨ Visual hierarchy	Important information gets attention first
-📱 Responsiveness	Desktop and mobile should both feel intentional
-🧩 Consistency	Components should share one visual language
-⚡ Performance	Avoid unnecessary complexity
-🔐 Trust	Security and predictable behavior matter
-🧠 Usability	Features should solve real problems
-
-Good UI gets attention. Great UX keeps it.
-
-⸻
-
-🔎 Cybersecurity & OSINT
-
-My interest in cybersecurity is strongly connected to understanding how systems work.
-
-Areas I explore include:
-
-* OSINT methodologies
-* DNS & domain intelligence
-* IP/network concepts
-* Metadata
-* Authentication systems
-* API security
-* Access control
-* Security-oriented interfaces
-* Data relationships
-* Investigation dashboards
-
-My focus is on authorized, defensive, educational, and research-oriented use cases.
-
-⸻
-
-🧠 How I Learn
-
-I prefer practical learning over simply reading documentation.
-
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Rebuild Better
-
-Every error becomes another opportunity to understand the system underneath the interface.
-
-⸻
-
-🐛 Debugging Mode
-
-When something breaks, my workflow is simple:
-
-Inspect
-   ↓
-Reproduce
-   ↓
-Find the root cause
-   ↓
-Fix
-   ↓
-Test
-   ↓
-Refactor
-
-I don’t just want the error to disappear.
-
-I want to understand why it happened.
-
-⸻
-
-☁️ Development Workflow
-
-Idea
-  │
-  ▼
-Architecture
-  │
-  ▼
-UI / UX
-  │
-  ▼
-Implementation
-  │
-  ▼
-API Integration
-  │
-  ▼
-Testing
-  │
-  ▼
-GitHub
-  │
-  ▼
-Deployment
-  │
-  ▼
-Iteration
-
-⸻
-
-📚 Currently Learning
-
-<div align="center">
-
-Area	Exploring
-🌐 Full-Stack	Scalable application architecture
-🔐 Security	Defensive security & OSINT concepts
-⚙️ Backend	APIs, databases & real-time systems
-☁️ Cloud	Deployment & infrastructure
-🎨 UI/UX	Product-level interface design
-🤖 AI	AI-assisted development workflows
-
-</div>
-
-⸻
-
-📊 GitHub Activity
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HACKERBOYDEVILYT&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERBOYDEVILYT&layout=compact&hide_border=true&theme=transparent" />
-</div>
-<br>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=HACKERBOYDEVILYT&hide_border=true&theme=transparent" />
-</div>
-
-⸻
-
-🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/HACKERBOYDEVILYT/HACKERBOYDEVILYT/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</div>
-
-⸻
-
-🎯 2026 Focus
-
-┌─────────────────────────────────────┐
-│          2026 DEVELOPMENT           │
-├─────────────────────────────────────┤
-│                                     │
-│  █ Full-Stack Development           │
-│  █ Better UI / UX                   │
-│  █ Backend Architecture             │
-│  █ Cybersecurity Knowledge           │
-│  █ OSINT Research                   │
-│  █ Production-Ready Projects        │
-│  █ Cloud & Deployment               │
-│  █ AI-Assisted Development          │
-│                                     │
-└─────────────────────────────────────┘
-
-⸻
-
-💡 Product Mindset
-
-Before building a feature, I like to think about:
-
-Why does it exist?
-
-Who uses it?
-
-How should it feel?
-
-What happens when something goes wrong?
-
-How can it become better later?
-
-This mindset helps turn a collection of features into a coherent product.
-
-⸻
-
-🎮 Beyond Code
-
-Technology isn’t my only interest.
-
-I also enjoy:
-
-* 🎮 Retro & arcade gaming
-* 🎨 Visual design
-* 📱 Mobile technology
-* 🎬 Anime & entertainment platforms
-* 🧪 Experimental projects
-* 🤖 AI tools
-* 🌐 Exploring new technologies
-
-These interests often become inspiration for new projects.
-
-⸻
-
-🧩 Developer Philosophy
-
-<div align="center">
-
-Build something.
-
-Break something.
-
-Understand something.
-
-Improve something.
-
-Repeat.
-
-</div>
-
-⸻
-
-📌 Current Status
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-💻
-
-Building
-
-Full-Stack Projects
-
-</td>
-<td align="center" width="25%">
-
-🔐
-
-Exploring
-
-Security & OSINT
-
-</td>
-<td align="center" width="25%">
-
-🎨
-
-Improving
-
-UI / UX
-
-</td>
-<td align="center" width="25%">
-
-🚀
-
-Shipping
-
-Real Projects
-
-</td>
-</tr>
-</table>
-
-⸻
-
-🤝 Connect
-
-<div align="center">
-<a href="https://github.com/HACKERBOYDEVILYT">
-<img src="https://img.shields.io/badge/GitHub-HACKERBOYDEVILYT-181717?style=for-the-badge&logo=github" />
-</a>
-</div>
-
-⸻
-
-<div align="center">
-
-Thanks for visiting my profile! 👋
-
-Build with curiosity. Ship with purpose.
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:06B6D4" />
-</div>
+<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
+
+
+> Tools and technologies that I have worked with and I'm interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+      <br>sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+      <br>Docusaurus
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
+ 
+ 
+ 
+ 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub States
+
+
+<p align="center">
+<a href="https://github.com/Xylon-404">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xylon-404&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xylon-404&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+  </a>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+<!-- Contribution Snake -->
+<p align="center"><img src="https://github.com/Xylon-404/Xylon-404/blob/main/Abdullah_404.svg"></p>
+
+<!-- Footer -->
+<img src="Footer.jpg">
